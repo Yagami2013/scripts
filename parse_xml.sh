@@ -15,6 +15,10 @@ adb shell "uiautomator dump --compressed && cat /sdcard/window_dump.xml" \
 )
 }
 
+back(){
+	adb shell input keyevent 4
+}
+
 #$2 means the second parameter followed,$0 means this file
 #[ -n "$2" ] means if $2 exsits, "" must not be ignored
 # \ mean command to be continued

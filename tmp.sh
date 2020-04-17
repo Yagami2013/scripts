@@ -6,5 +6,7 @@ test(){
 	return $1;#shell count return varables,return value is only used to judge if function run success or fail
 }
 
-aa=test;
-echo $aa
+#aa=test;
+#echo $aa
+su
+echo 0>/sys/class/power_supply/battery/charging_enabled

@@ -4,4 +4,6 @@
 2.启动时间计算
 https://www.zhihu.com/question/35487841
 取am start -W 的WaitTime(从前一个Activity.onPause到最后打开的有界面activity.onResume)
-其他时间：thisTime=
+其他时间：ThisTime=一连串Activity中的最后一个启动时间
+TotalTime:一连窜Activity的第一个的启动时间
+2020-4-17修改：改用totaltime作为启动时间

@@ -6,3 +6,8 @@ getStartTime(){
 	startTime=`adb shell am start -W $MainPage | grep "TotalTime"`;
 	echo $startTime
 }
+
+closeApp(){
+	[ -n "$1" ]&&pkg=$1||pkg="com.ytt.tingyunbasetest";
+	adb shell am force-stop $pkg;
+}

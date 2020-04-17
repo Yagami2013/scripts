@@ -7,3 +7,4 @@ https://www.zhihu.com/question/35487841
 其他时间：ThisTime=一连串Activity中的最后一个启动时间
 TotalTime:一连窜Activity的第一个的启动时间
 2020-4-17修改：改用totaltime作为启动时间
+注意：设备锁屏时该方法不可用

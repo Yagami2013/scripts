@@ -1,8 +1,8 @@
 #/bin/bash
 
 
-[ -n "$1" ]&&pkg=$1||pkg="com.ytt.tingyunbasetest";
-#top|grep $pkg >> /sdcard/cpu.txt&
+[ -n "$1" ]&&pkg=$1||pkg="com.zfdang.zsmth_android";
+top|grep $pkg >> /sdcard/cpu.txt&
 for i in $(seq 1 1000)
 do
 	dumpsys battery|grep level >>/sdcard/battery.txt;

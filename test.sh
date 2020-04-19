@@ -1,4 +1,4 @@
 #/bin/bash
-source operate_app.sh
-wait $(installApp "apk/zsmth.apk");
+source parse.sh
+wait $(click "角色");
 echo "ok"

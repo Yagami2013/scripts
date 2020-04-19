@@ -3,7 +3,7 @@ pkg="com.zfdang.zsmth_android";
 getStartTime(){
 	[ -n "$1" ]&& pkg=$1;
 	local MainPage=${pkg}"/.MainActivity";
-	startTime=`adb shell am start -W $MainPage | grep "TotalTime"`;
+	startTime=`adb shell am start -W $MainPage | grep "TotalTime"|awk -F: '{print $2}'`;
 	echo $startTime;
 }
 
@@ -23,7 +23,7 @@ closeApp(){
 	adb shell am force-stop $pkg;
 }
 installApp(){
-	[ -n "$1" ]&& apk="./apk/zSMTH.apk";
+	[ -n "$1" ] && apk=$1 || apk="./apk/zsmth.apk";
 	adb install $apk
 }
 uninstall(){

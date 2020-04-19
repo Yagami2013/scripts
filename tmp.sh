@@ -10,3 +10,8 @@ test(){
 #echo $aa
 su
 echo 0>/sys/class/power_supply/battery/charging_enabled
+
+read -p "please:" text
+
+echo $text
+echo ok

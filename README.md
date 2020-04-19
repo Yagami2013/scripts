@@ -9,3 +9,5 @@ https://www.zhihu.com/question/35487841
 TotalTime:一连窜Activity的第一个的启动时间
 2020-4-17修改：改用totaltime作为启动时间
 注意：设备锁屏时该方法不可用
+
+3.installApp方法未执行完就进行下一条命令，暂时手动安装，研究wait用法

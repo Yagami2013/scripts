@@ -2,6 +2,7 @@
 
 #at least one param needed,the click target view text
 click(){
+	sleep 1;
 local index=1
 [ -n "$2" ] && index=$2 
 adb shell input tap \
@@ -15,8 +16,18 @@ adb shell "uiautomator dump --compressed && cat /sdcard/window_dump.xml" \
 )
 }
 
+swipe(){
+	[ -n "$1" ]&& count=$1||count=5;
+	for i in $(seq 1 $count) 
+	do
+		sleep 1;
+		adb shell input swipe 200 900 200 200;
+	done
+}
+
 back(){
-	adb shell input keyevent 4
+	sleep 1;
+	adb shell input keyevent 4;
 }
 
 #$2 means the second parameter followed,$0 means this file

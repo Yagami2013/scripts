@@ -29,6 +29,25 @@ back(){
 	sleep 1;
 	adb shell input keyevent 4;
 }
+clickTopics(){
+	sleep 1;
+	topics=$(
+	adb shell "uiautomator dump --compressed && cat /sdcard/window_dump.xml" \
+	| sed 's#index=#^index=#g' \
+	| awk 'BEGIN{RS="^"}{print $0}' \
+	| grep "topic_title" \
+	| awk 'BEGIN{FS=",|\\[|\\]"}{print ($2+$5)/2, ($3+$6)/2}' 
+	);
+	j=0;
+	for i in $topics
+	do
+		t[j]=$i;
+		j+=1;
+	done;
+	adb shell input tap ${t[0]} ${t[1]};
+	back;
+}
+
 
 #$2 means the second parameter followed,$0 means this file
 #[ -n "$2" ] means if $2 exsits, "" must not be ignored

@@ -4,4 +4,4 @@
 
 #adb pull /sdcard/top.txt ./
 grep u0 top.txt | awk '{print ($6-$7)}' > mem.txt;
-grep u0 top.txt | awk '{print $8 }' > cpu.txt
+grep u0 top.txt | awk '{print $9 }' > cpu.txt

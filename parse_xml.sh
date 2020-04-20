@@ -2,9 +2,10 @@
 
 #at least one param needed,the click target view text
 click(){
+	echo $1;
 	sleep 1;
 local index=1
-[ -n "$2" ] && index=$2 
+[ -n "$2" ] && index=$2; 
 adb shell input tap \
 $(
 adb shell "uiautomator dump --compressed && cat /sdcard/window_dump.xml" \
@@ -23,6 +24,10 @@ swipe(){
 		sleep 1;
 		adb shell input swipe 200 900 200 200;
 	done
+}
+
+swipeDown(){
+	adb shell input swipe 200 200 200 900;
 }
 
 back(){

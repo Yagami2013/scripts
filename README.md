@@ -16,7 +16,12 @@ TotalTime:一连窜Activity的第一个的启动时间
 
 5.wait方法不能用来等待某个控件点击事件完成
 
+6.top命令有时无法获取到数据，目前手动输入以下命令采集：
+top -d 1 | grep zfdang >> /sdcard/cpu.txt
+top命令结果共12列，分别是PID,USER,PR(优先级),NI(nice值，负值表示高优先级，正值表示低优先级),VIRT(虚拟内存),RES(常驻内存),SHR(共享内存),S,CPU(%),MEM(%),TIME,ARGS(进程名)
+进程使用的物理内存=RES-SHR
+
 todo:
-1.点击首页第一个热帖，不用text定位
-2.点击左上角图标
-3.设备内top定时采集
+1.点击首页第一个热帖，不用text定位--完成
+2.点击左上角图标--完成
+3.设备内top定时采集--完成

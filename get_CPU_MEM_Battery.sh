@@ -6,7 +6,7 @@ path="/sdcard/";
 cpu="cpu.txt";
 battery="battery_detail.txt";
 temp="temp_detail.txt";
-top|grep $pkg >> ${path}$cpu&
+top|grep zfdang >> ${path}$cpu&
 for i in $(seq 1 1000)
 do
 	dumpsys battery|grep level >> ${path}$battery;

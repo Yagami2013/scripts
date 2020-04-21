@@ -9,7 +9,7 @@ getStartTime(){
 
 getFlow(){
 	uid=`adb shell dumpsys package $pkg | grep userId|awk -F '=' '{print $2}'`;
-	flow=`adb shell cat /proc/net/xt_qtaguid/stats | grep $uid|awk '{data[NR]+=$6+$8;sum=0;}END{for(k in data) sum+=data[k];print sum}'`;
+	flow=`adb shell cat /proc/net/xt_qtaguid/stats | grep $uid|awk '{data[NR]+=$6+$8;sum=0;}END{for(k in data) sum+=data[k];print (sum/1024)}'`;
 	echo $flow;
 }
 

@@ -50,7 +50,6 @@ clickTopics(){
 		j+=1;
 	done;
 	adb shell input tap ${t[0]} ${t[1]};
-	back;
 }
 
 

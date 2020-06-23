@@ -8,7 +8,7 @@ script="get_CPU_MEM_Battery.sh"
 read -p "please disable battery charging by command:adb shell && su && echo 0>/sys/class/power_supply/battery/charging_enabled "
 read -p "make sure the test apk is under ./apk/ with name zsmth.apk,zsmth-nosdk.apk:"
 sleep 1
-wait $(installApp "apk/zsmth-nosdk.apk")
+wait $(installApp "apk/zsmth.apk")
 
 battery1=`getBattery`
 temp1=`getBattery "temperature"`

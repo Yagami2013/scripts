@@ -1,10 +1,12 @@
 # 测试流程
 1.打包两个apk,一个嵌码一个不嵌码,分别命名为zsmth.apk和zsmth-nosdk.apk,放在apk目录下;
+确认脚本zSMTH.sh中的apk名称是否是要测试的包
 2.adb shell进入设备,切为root,执行  echo 0 > /sys/class/power_supply/battery/charging_enabled;
 3.在设备内执行top -d 1 | grep zfdang >> /sdcard/cpu.txt;
 4.执行bash zSMTH.sh;
-5.执行bash pull.sh;
-6.将数据整理成excel,清理scripts目录及设备/sdcard/目录下的txt文件.
+5.zSMTH.sh执行完后,结束top命令,执行bash pull.sh;
+6.在设备内执行echo 1 > /sys/class/power_supply/battery/charging_enabled
+7.将数据整理成excel,清理scripts目录及设备/sdcard/目录下的txt文件.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 # scripts
 1.打开被测APP，命令行执行 source parse_xml.sh 后输入click "TestPage"(TestPage是按钮text属性值)，自动点击。

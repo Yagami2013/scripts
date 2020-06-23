@@ -1,359 +1,1434 @@
-29701 shell        20   0 8.4M 1.3M 992K S  0.0   0.0   0:00.03 grep zfdang
-29701 shell        20   0 8.4M 1.3M 992K S  0.3   0.0   0:00.03 grep zfdang
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
-29853 u0_a3363     10 -10 2.1G  43M  29M R  125   1.5   0:00.69 com.zfdang.zsmth_android
-29853 u0_a3363     10 -10 2.2G  82M  53M S 11.6   3.0   0:04.46 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.1G  46M  33M R  100   1.7   0:00.74 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
-30004 u0_a3363     10 -10 2.2G  71M  48M S  8.3   2.6   0:03.76 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  72M  48M S 55.3   2.6   0:04.01 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
-30004 u0_a3363     10 -10 2.2G  80M  53M S 24.3   2.9   0:05.67 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.04 grep zfdang
-30004 u0_a3363     10 -10 2.2G  80M  53M S 10.0   2.9   0:06.40 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  79M  52M S 30.6   2.9   0:06.70 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  84M  57M S 29.0   3.1   0:07.62 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  86M  57M R 73.6   3.1   0:08.49 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  90M  61M R 47.0   3.3   0:10.70 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  91M  62M S 42.6   3.3   0:12.11 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
-30004 u0_a3363     10 -10 2.2G  92M  62M S 11.3   3.4   0:13.39 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  92M  62M S 28.0   3.4   0:13.73 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
-30004 u0_a3363     10 -10 2.2G  94M  62M S 19.6   3.4   0:14.57 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  92M  62M S  4.0   3.4   0:15.16 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  91M  61M S 34.6   3.3   0:15.28 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  92M  62M S 40.0   3.4   0:16.32 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.05 grep zfdang
-30004 u0_a3363     10 -10 2.2G  93M  63M S 37.3   3.4   0:17.52 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang
-30004 u0_a3363     10 -10 2.2G  93M  63M S 37.0   3.4   0:18.64 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang[H[JTasks: 565 total,   1 running, 559 sleeping,   0 stopped,   1 zombie                                                                                                   
-30004 u0_a3363     10 -10 2.2G  94M  64M S 18.0   3.5   0:19.75 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  95M  63M S 16.6   3.5   0:20.29 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  93M  63M S  6.3   3.4   0:20.79 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  92M  63M S 19.3   3.4   0:20.98 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  94M  64M S 19.0   3.4   0:21.56 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  96M  64M R  5.3   3.5   0:22.13 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  96M  64M S 25.3   3.5   0:22.29 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  96M  65M S 19.6   3.5   0:23.05 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G  97M  66M S 41.0   3.6   0:23.64 com.zfdang.zsmth_android
-30004 u0_a3363     10 -10 2.2G 102M  65M S  140   3.7   0:24.87 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.06 grep zfdang
-30004 u0_a3363     10 -10 2.2G 107M  67M S 46.3   3.9   0:29.08 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang[H[JTasks: 565 total,   1 running, 559 sleeping,   0 stopped,   1 zombie                                                                                                   
-30004 u0_a3363     10 -10 2.2G 108M  68M S 38.6   3.9   0:30.47 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  70M  48M S  6.6   2.5   0:03.79 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  70M  48M R 28.0   2.6   0:03.99 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  71M  47M S 32.6   2.6   0:04.83 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang[H[JTasks: 565 total,   1 running, 559 sleeping,   0 stopped,   1 zombie                                                                                                   
-31299 u0_a3363     10 -10 2.2G  73M  49M S 27.6   2.7   0:05.81 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  74M  49M S 26.6   2.7   0:06.64 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  80M  52M S  4.3   2.9   0:07.44 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  80M  52M S 80.3   2.9   0:07.57 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  83M  56M S 39.6   3.0   0:09.98 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
-31299 u0_a3363     10 -10 2.2G  84M  56M S 46.3   3.1   0:11.17 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.07 grep zfdang
-31299 u0_a3363     10 -10 2.2G  85M  57M S 31.0   3.1   0:12.56 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang[H[JTasks: 565 total,   2 running, 558 sleeping,   0 stopped,   1 zombie                                                                                                   
-31299 u0_a3363     10 -10 2.2G  85M  57M S 27.0   3.1   0:13.49 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  87M  56M S 20.6   3.2   0:14.30 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  85M  56M S  4.0   3.1   0:14.92 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
-31299 u0_a3363     10 -10 2.2G  85M  56M S 44.6   3.1   0:15.04 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  90M  58M S 36.3   3.3   0:16.38 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  90M  58M S 39.6   3.3   0:17.47 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
-31299 u0_a3363     10 -10 2.2G  88M  59M S 29.0   3.2   0:18.66 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
-31299 u0_a3363     10 -10 2.2G  88M  59M S 19.0   3.2   0:19.53 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  90M  58M S 15.0   3.3   0:20.10 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  91M  59M S  9.3   3.3   0:20.55 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.08 grep zfdang
-31299 u0_a3363     10 -10 2.2G  86M  58M S 21.6   3.2   0:20.83 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  88M  59M S 13.6   3.2   0:21.48 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  89M  59M R 11.0   3.3   0:21.89 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
-31299 u0_a3363     10 -10 2.2G  90M  59M S 28.6   3.3   0:22.22 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  90M  60M S  5.0   3.3   0:23.08 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  91M  60M S 19.6   3.3   0:23.23 com.zfdang.zsmth_android
-31299 u0_a3363     10 -10 2.2G  91M  61M S 62.0   3.3   0:23.82 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
-31299 u0_a3363     10 -10 2.2G  95M  62M S 41.6   3.5   0:25.68 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
-31299 u0_a3363     10 -10 2.2G  95M  62M S 37.3   3.5   0:26.93 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
-32625 u0_a3363     10 -10 2.2G  73M  46M R 20.6   2.7   0:03.33 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
-32625 u0_a3363     10 -10 2.2G  72M  48M S 12.6   2.6   0:03.95 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.09 grep zfdang
-32625 u0_a3363     10 -10 2.2G  72M  48M R 48.6   2.6   0:04.33 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  75M  49M S 29.3   2.7   0:05.79 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.10 grep zfdang
-32625 u0_a3363     10 -10 2.2G  71M  48M S 29.3   2.6   0:06.67 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  78M  52M S  1.3   2.9   0:07.55 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  78M  52M S 81.0   2.8   0:07.59 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  86M  57M S 41.0   3.1   0:10.02 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  87M  57M S 45.6   3.2   0:11.25 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  87M  58M S 32.0   3.2   0:12.62 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  88M  58M S 29.6   3.2   0:13.58 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.10 grep zfdang[H[JTasks: 564 total,   2 running, 555 sleeping,   0 stopped,   1 zombie                                                                                                   
-32625 u0_a3363     10 -10 2.2G  86M  56M S  3.6   3.1   0:14.47 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  86M  56M S 20.3   3.1   0:14.58 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  88M  57M S 10.3   3.2   0:15.19 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.10 grep zfdang
-32625 u0_a3363     10 -10 2.2G  89M  57M R 47.6   3.3   0:15.50 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  89M  58M S 34.6   3.2   0:16.93 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
-32625 u0_a3363     10 -10 2.2G  89M  59M S 30.0   3.2   0:17.97 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  90M  60M S 24.3   3.3   0:18.87 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  90M  60M S 18.3   3.3   0:19.60 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  91M  59M S 16.3   3.3   0:20.15 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  91M  58M S  3.6   3.3   0:20.64 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  91M  58M S 21.0   3.3   0:20.75 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang[H[JTasks: 562 total,   1 running, 556 sleeping,   0 stopped,   1 zombie                                                                                                   
-32625 u0_a3363     10 -10 2.2G  93M  60M S  7.6   3.4   0:21.38 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  93M  60M S 19.6   3.4   0:21.61 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  90M  60M S 27.0   3.3   0:22.20 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  90M  60M S 14.6   3.3   0:23.01 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.11 grep zfdang
-32625 u0_a3363     10 -10 2.2G  91M  61M S 16.3   3.3   0:23.45 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  93M  62M R 62.0   3.4   0:23.94 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
-32625 u0_a3363     10 -10 2.2G  96M  63M S 43.0   3.5   0:25.80 com.zfdang.zsmth_android
-32625 u0_a3363     10 -10 2.2G  96M  63M S 35.6   3.5   0:27.09 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  70M  48M S  9.6   2.6   0:03.73 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  72M  48M S 55.0   2.6   0:04.02 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  75M  49M S  8.0   2.7   0:05.67 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  75M  49M S 27.6   2.7   0:05.91 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  75M  48M S 28.0   2.7   0:06.74 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  78M  52M S 22.6   2.9   0:07.58 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  81M  53M R 76.6   2.9   0:08.26 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.12 grep zfdang
- 2660 u0_a3363     10 -10 2.2G  86M  57M S 45.3   3.1   0:10.56 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  87M  58M R 39.0   3.2   0:11.92 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  87M  58M S 14.0   3.2   0:13.09 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  87M  58M S 31.6   3.2   0:13.51 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  89M  57M S 21.0   3.2   0:14.46 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  86M  57M S  1.0   3.2   0:15.09 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  86M  57M S 46.6   3.2   0:15.12 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  91M  58M S 34.6   3.3   0:16.52 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
- 2660 u0_a3363     10 -10 2.2G  92M  59M S 38.3   3.4   0:17.56 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  94M  60M S 29.3   3.4   0:18.71 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  94M  60M S 20.0   3.4   0:19.59 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  90M  58M S 14.6   3.3   0:20.19 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.13 grep zfdang
- 2660 u0_a3363     10 -10 2.2G  91M  59M S  7.3   3.3   0:20.63 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  90M  59M S 19.6   3.3   0:20.85 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  92M  60M S  7.6   3.4   0:21.44 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  92M  60M S 17.0   3.4   0:21.67 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  94M  60M S 25.0   3.4   0:22.18 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  94M  60M S  1.0   3.4   0:22.93 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  94M  60M S 21.6   3.4   0:22.96 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G  96M  62M S 43.3   3.5   0:23.61 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang[H[JTasks: 563 total,   1 running, 557 sleeping,   0 stopped,   1 zombie                                                                                                   
- 2660 u0_a3363     10 -10 2.2G 100M  63M S 42.3   3.7   0:24.91 com.zfdang.zsmth_android
- 2660 u0_a3363     10 -10 2.2G 100M  63M S 41.3   3.7   0:26.18 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.1G  35M  24M R  120   1.2   0:00.21 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.14 grep zfdang
- 4326 u0_a3363     10 -10 2.2G  71M  48M S  7.6   2.6   0:03.81 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  72M  48M S 54.0   2.6   0:04.04 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  76M  49M S 27.3   2.8   0:05.66 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  75M  48M S 10.0   2.7   0:06.48 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  76M  49M S 28.0   2.8   0:06.78 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  78M  53M S 44.0   2.9   0:07.62 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  83M  53M S 62.6   3.0   0:08.94 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  87M  57M S 46.0   3.2   0:10.82 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  87M  58M S 42.0   3.2   0:12.20 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  88M  58M S 11.6   3.2   0:13.46 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  88M  58M S 30.0   3.2   0:13.81 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.15 grep zfdang
- 4326 u0_a3363     10 -10 2.2G  86M  57M S 17.6   3.2   0:14.71 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  87M  56M S  1.0   3.2   0:15.24 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  87M  56M S 32.3   3.2   0:15.27 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  87M  57M S 39.6   3.2   0:16.24 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  88M  58M R 35.3   3.2   0:17.43 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  90M  60M S 34.6   3.3   0:18.49 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang[H[JTasks: 562 total,   1 running, 556 sleeping,   0 stopped,   1 zombie                                                                                                   
- 4326 u0_a3363     10 -10 2.2G  90M  60M S 18.3   3.3   0:19.53 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  91M  58M S 17.0   3.3   0:20.08 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  92M  59M S 12.0   3.4   0:20.59 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang[H[JTasks: 562 total,   2 running, 553 sleeping,   0 stopped,   1 zombie                                                                                                   
- 4326 u0_a3363     10 -10 2.2G  88M  59M S 19.3   3.2   0:20.95 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  88M  60M S  8.0   3.2   0:21.53 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.16 grep zfdang
- 4326 u0_a3363     10 -10 2.2G  88M  60M S 16.6   3.2   0:21.77 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  90M  60M S 26.3   3.3   0:22.27 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  91M  61M R  4.6   3.3   0:23.06 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  90M  60M S 22.3   3.3   0:23.20 com.zfdang.zsmth_android
- 4326 u0_a3363     10 -10 2.2G  92M  61M S 42.6   3.4   0:23.87 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
- 4326 u0_a3363     10 -10 2.2G  95M  62M S 47.0   3.5   0:25.15 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang[H[JTasks: 561 total,   1 running, 555 sleeping,   0 stopped,   1 zombie                                                                                                   
- 4326 u0_a3363     10 -10 2.2G  96M  63M S 35.3   3.5   0:26.56 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.1G  47M  34M R 98.0   1.7   0:00.86 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  71M  48M S  7.6   2.6   0:03.80 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  72M  48M S 49.3   2.6   0:04.03 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  75M  49M S 23.6   2.7   0:05.51 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.17 grep zfdang
- 5736 u0_a3363     10 -10 2.2G  76M  49M S 37.3   2.8   0:06.22 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  79M  52M S  3.0   2.9   0:07.34 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  78M  52M S 82.0   2.9   0:07.43 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  85M  57M S 37.6   3.1   0:09.89 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang[H[JTasks: 562 total,   1 running, 556 sleeping,   0 stopped,   1 zombie                                                                                                   
- 5736 u0_a3363     10 -10 2.2G  86M  57M S 44.6   3.1   0:11.02 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  87M  58M S 33.0   3.2   0:12.36 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  87M  58M S 27.6   3.2   0:13.35 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  89M  57M S 20.0   3.2   0:14.18 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  86M  57M S  3.6   3.1   0:14.78 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  86M  57M S 29.6   3.1   0:14.89 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  90M  58M S 37.6   3.3   0:15.78 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  91M  59M S 33.6   3.3   0:16.91 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.18 grep zfdang
- 5736 u0_a3363     10 -10 2.2G  92M  59M S 37.3   3.4   0:17.92 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  93M  60M S  3.0   3.4   0:19.04 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  93M  60M S 19.6   3.4   0:19.13 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  90M  59M S 18.0   3.3   0:19.72 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  90M  58M S  6.3   3.3   0:20.26 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  90M  58M S 26.6   3.3   0:20.45 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  92M  60M S 17.3   3.4   0:21.25 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  95M  60M S 24.6   3.5   0:21.77 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  95M  61M S  4.0   3.5   0:22.51 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  94M  60M S 21.6   3.4   0:22.63 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  95M  61M S 45.3   3.5   0:23.28 com.zfdang.zsmth_android
- 5736 u0_a3363     10 -10 2.2G  95M  62M S 46.0   3.5   0:24.64 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.6   0.0   0:00.19 grep zfdang
- 5736 u0_a3363     10 -10 2.2G  94M  63M S 38.3   3.5   0:26.02 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.1G  51M  36M D 91.0   1.9   0:01.04 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  71M  48M S  8.6   2.6   0:03.77 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  72M  48M S 40.0   2.6   0:04.03 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  74M  48M R 18.0   2.7   0:05.23 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  75M  49M S 28.6   2.7   0:05.77 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  75M  48M S 28.3   2.7   0:06.63 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  79M  52M S  7.3   2.9   0:07.48 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  78M  52M S 79.6   2.9   0:07.70 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  86M  57M R 36.3   3.1   0:10.09 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  86M  57M S 43.0   3.1   0:11.18 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  87M  58M S 29.0   3.2   0:12.47 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  87M  58M S 29.0   3.2   0:13.34 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  89M  57M S 18.0   3.3   0:14.21 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  87M  57M S  6.3   3.2   0:14.75 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  86M  56M S 15.6   3.2   0:14.94 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  87M  57M R 39.3   3.2   0:15.41 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  91M  58M S 37.0   3.3   0:16.59 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  91M  58M S 36.6   3.3   0:17.70 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  93M  60M R 15.6   3.4   0:18.80 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  93M  60M S 19.6   3.4   0:19.27 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  90M  58M S 17.3   3.3   0:19.86 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  90M  59M S  4.3   3.3   0:20.38 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.6   0.0   0:00.21 grep zfdang
- 7282 u0_a3363     10 -10 2.2G  90M  59M S 20.0   3.3   0:20.51 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  92M  60M S 18.0   3.4   0:21.11 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  95M  60M S 25.3   3.5   0:21.65 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  95M  61M S  4.6   3.5   0:22.41 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  94M  60M S 25.6   3.4   0:22.55 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  96M  61M S 43.6   3.5   0:23.32 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  99M  62M S 49.0   3.6   0:24.63 com.zfdang.zsmth_android
- 7282 u0_a3363     10 -10 2.2G  95M  63M S 35.6   3.5   0:26.10 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.1G  49M  35M R 91.0   1.8   0:00.92 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  71M  48M S 12.3   2.6   0:03.65 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  72M  49M R 44.0   2.6   0:04.02 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  75M  49M S 25.3   2.7   0:05.34 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  75M  48M S 33.0   2.8   0:06.10 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  79M  52M S  6.0   2.9   0:07.09 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  78M  52M S 84.3   2.8   0:07.27 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  86M  57M S 39.0   3.1   0:09.80 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  86M  57M R 43.0   3.2   0:10.97 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  87M  58M S 29.3   3.2   0:12.26 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  87M  58M S 28.0   3.2   0:13.14 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  89M  57M S  2.3   3.3   0:13.98 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  89M  57M S 20.3   3.3   0:14.05 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  86M  57M S 32.0   3.2   0:14.66 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  91M  58M S 35.6   3.3   0:15.62 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.6   0.0   0:00.23 grep zfdang
- 8592 u0_a3363     10 -10 2.2G  92M  58M S 32.0   3.3   0:16.69 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  88M  59M S 38.3   3.2   0:17.65 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  89M  60M S 12.0   3.3   0:18.80 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  89M  60M S 16.3   3.3   0:19.16 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  90M  58M S 22.0   3.3   0:19.65 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  88M  59M S  3.6   3.2   0:20.31 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  88M  59M S 23.6   3.2   0:20.42 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  89M  60M S 17.0   3.3   0:21.13 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  91M  60M S 28.3   3.3   0:21.64 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  91M  60M S  4.0   3.3   0:22.49 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  91M  60M S 21.6   3.3   0:22.61 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  92M  61M R 61.0   3.4   0:23.26 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  96M  63M R 30.3   3.5   0:25.09 com.zfdang.zsmth_android
- 8592 u0_a3363     10 -10 2.2G  96M  63M S 42.6   3.5   0:26.00 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  65M  45M S 43.0   2.4   0:02.69 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  71M  48M S 12.0   2.6   0:03.98 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  72M  49M S 45.3   2.6   0:04.34 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  75M  49M S 25.6   2.7   0:05.70 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  75M  49M S 31.6   2.8   0:06.47 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  76M  50M R  7.6   2.8   0:07.42 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  78M  52M S 66.3   2.8   0:07.65 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  85M  56M S 47.0   3.1   0:09.64 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.6   0.0   0:00.25 grep zfdang
- 9865 u0_a3363     10 -10 2.2G  86M  57M S 43.3   3.2   0:11.05 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  87M  58M R 39.3   3.2   0:12.35 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
- 9865 u0_a3363     10 -10 2.2G  87M  58M S 30.3   3.2   0:13.53 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  89M  57M S 20.3   3.3   0:14.44 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  87M  57M S  4.3   3.2   0:15.05 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  86M  56M S 31.3   3.2   0:15.18 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  88M  57M S 40.3   3.2   0:16.12 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  89M  58M S 34.6   3.2   0:17.33 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  89M  59M S 37.0   3.2   0:18.37 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  90M  60M S 19.3   3.3   0:19.48 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  91M  59M S 11.3   3.3   0:20.06 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  92M  59M R 10.6   3.4   0:20.40 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  87M  58M S 10.6   3.2   0:20.72 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  89M  60M S 12.3   3.2   0:21.04 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  89M  60M S 17.6   3.3   0:21.41 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  91M  60M S 27.6   3.3   0:21.94 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  93M  61M S  4.6   3.4   0:22.77 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  91M  60M S 25.6   3.3   0:22.91 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  93M  61M S 44.3   3.4   0:23.68 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  97M  62M S 46.0   3.5   0:25.01 com.zfdang.zsmth_android
- 9865 u0_a3363     10 -10 2.2G  97M  63M S 39.3   3.6   0:26.39 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.1G  63M  39M R 71.0   2.3   0:01.58 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  70M  48M S 16.3   2.6   0:03.71 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.27 grep zfdang
-11131 u0_a3363     10 -10 2.2G  71M  49M S 43.6   2.6   0:04.20 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  74M  49M S 32.0   2.7   0:05.51 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  74M  48M S 27.6   2.7   0:06.47 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  78M  52M S  2.6   2.9   0:07.30 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  78M  52M S 76.6   2.8   0:07.38 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  86M  57M R 48.0   3.1   0:09.68 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  86M  57M S 42.6   3.2   0:11.12 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  87M  58M R 35.3   3.2   0:12.40 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  88M  58M S  3.6   3.2   0:13.46 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  88M  58M S 27.0   3.2   0:13.57 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  85M  56M S 23.3   3.1   0:14.38 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  87M  56M S  4.3   3.2   0:15.08 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.28 grep zfdang
-11131 u0_a3363     10 -10 2.2G  87M  56M S 48.6   3.2   0:15.21 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  89M  58M S 35.3   3.2   0:16.67 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  89M  58M S 32.6   3.2   0:17.73 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  90M  60M S 24.6   3.3   0:18.71 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  90M  60M S 18.3   3.3   0:19.45 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  91M  59M S 20.6   3.3   0:20.00 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  88M  58M S  7.3   3.2   0:20.62 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  88M  58M S 16.6   3.2   0:20.84 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  90M  60M S 18.0   3.3   0:21.34 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  92M  61M S 19.6   3.4   0:21.88 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  93M  61M S  6.3   3.4   0:22.47 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  92M  60M S 19.6   3.4   0:22.66 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  93M  61M R 43.0   3.4   0:23.25 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.29 grep zfdang
-11131 u0_a3363     10 -10 2.2G  97M  62M S 46.3   3.6   0:24.54 com.zfdang.zsmth_android
-11131 u0_a3363     10 -10 2.2G  98M  63M S 41.0   3.6   0:25.93 com.zfdang.zsmth_android
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang[H[JTasks: 562 total,   2 running, 554 sleeping,   0 stopped,   1 zombie                                                                                                   
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.30 grep zfdang
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.31 grep zfdang[H[JTasks: 562 total,   1 running, 556 sleeping,   0 stopped,   1 zombie                                                                                                   
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.31 grep zfdang[H[JTasks: 562 total,   1 running, 556 sleeping,   0 stopped,   1 zombie                                                                                                   
-29701 shell        20   0 8.4M 1.5M 1.1M S  0.3   0.0   0:00.31 grep zfdang
+22796 shell        20   0 8.4M 1.3M 992K S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.3M 992K S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.03 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22912 shell        20   0 8.6M 1.6M 1.2M S  0.0   0.0   0:00.02 sh /system/bin/am start -W com.zfdang.zsmth_android/.MainActivity
+22985 u0_a3364     10 -10 2.1G  31M  21M R  130   1.1   0:00.32 com.zfdang.zsmth_android
+22914 shell        20   0  13M 2.3M 1.7M S  0.0   0.0   0:00.01 cmd activity start -W com.zfdang.zsmth_android/.MainActivity
+22912 shell        20   0 8.6M 1.6M 1.2M S  0.0   0.0   0:00.02 sh /system/bin/am start -W com.zfdang.zsmth_android/.MainActivity
+22985 u0_a3364     10 -10 2.1G  52M  36M R  180   1.9   0:01.62 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22985 u0_a3364     10 -10 2.2G  74M  52M S  131   2.7   0:03.42 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22985 u0_a3364     10 -10 2.2G  77M  53M R 67.0   2.8   0:04.73 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22985 u0_a3364     10 -10 2.2G  84M  55M S 18.0   3.0   0:05.40 com.zfdang.zsmth_android
+22985 u0_a3364     10 -10 2.2G  85M  55M S  5.0   3.1   0:05.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22985 u0_a3364     10 -10 2.2G  84M  55M S  3.0   3.1   0:05.63 com.zfdang.zsmth_android
+22985 u0_a3364     10 -10 2.2G  84M  55M S  9.0   3.1   0:05.66 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.04 grep zfdang
+22985 u0_a3364     10 -10 2.2G  84M  55M S 13.0   3.1   0:05.75 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.04 grep zfdang
+23152 u0_a3364     10 -10 2.1G  45M  33M R  211   1.6   0:00.74 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  72M  47M S  136   2.6   0:02.85 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  73M  49M S 14.0   2.7   0:04.21 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  74M  50M S 15.0   2.7   0:04.35 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  74M  50M S  5.0   2.7   0:04.50 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  76M  50M S  6.0   2.8   0:04.55 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  75M  50M S 32.0   2.7   0:04.61 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  75M  51M S  124   2.7   0:04.93 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  83M  55M S  3.0   3.0   0:06.17 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  83M  55M S 16.0   3.0   0:06.20 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  83M  55M S 52.0   3.0   0:06.36 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.05 grep zfdang
+23152 u0_a3364     10 -10 2.2G  80M  54M S 12.0   2.9   0:06.88 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  80M  55M S 25.0   2.9   0:07.00 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  79M  55M S  8.0   2.9   0:07.25 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang[H[JTasks: 555 total,   2 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  79M  55M S 73.0   2.9   0:07.33 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  87M  59M S  8.0   3.2   0:08.06 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang
+23152 u0_a3364     10 -10 2.2G  86M  59M S  1.0   3.2   0:08.14 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang
+23152 u0_a3364     10 -10 2.2G  86M  59M S  2.0   3.2   0:08.15 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  86M  59M S 15.0   3.2   0:08.17 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang
+23152 u0_a3364     10 -10 2.2G  87M  59M S  118   3.2   0:08.32 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang
+23152 u0_a3364     10 -10 2.2G  89M  60M S  120   3.2   0:09.50 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.06 grep zfdang[H[JTasks: 556 total,   2 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  90M  60M S 61.0   3.3   0:10.70 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.06 grep zfdang
+23152 u0_a3364     10 -10 2.2G  94M  63M S 28.0   3.5   0:11.31 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  95M  64M R 51.0   3.5   0:11.59 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang[H[JTasks: 556 total,   2 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  95M  64M S 44.0   3.5   0:12.10 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  96M  64M S 46.0   3.5   0:12.54 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  96M  64M S 44.0   3.5   0:13.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  96M  64M S 45.0   3.5   0:13.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  97M  64M S 54.0   3.6   0:13.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  93M  64M S 32.0   3.4   0:14.43 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  93M  64M S  3.0   3.4   0:14.75 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  93M  64M S 11.0   3.4   0:14.78 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  93M  64M S 69.0   3.4   0:14.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.07 grep zfdang[H[JTasks: 556 total,   3 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  95M  63M R 10.0   3.5   0:15.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.07 grep zfdang
+23152 u0_a3364     10 -10 2.2G  96M  63M S  3.0   3.5   0:15.68 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  95M  63M S  0.0   3.5   0:15.71 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  95M  63M S 10.0   3.5   0:15.71 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  95M  63M S 59.0   3.5   0:15.81 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  94M  64M S  4.0   3.4   0:16.40 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  94M  64M S  7.0   3.4   0:16.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  93M  63M S  5.0   3.4   0:16.51 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  93M  63M S  8.0   3.4   0:16.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  93M  63M S 65.0   3.4   0:16.64 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  97M  63M R 27.0   3.5   0:17.29 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  94M  64M S 56.0   3.4   0:17.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  95M  65M S 25.0   3.5   0:18.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.08 grep zfdang
+23152 u0_a3364     10 -10 2.2G  95M  65M S 53.0   3.5   0:18.37 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  96M  65M S 33.0   3.5   0:18.90 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  96M  65M R 43.0   3.5   0:19.23 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  97M  65M S 44.0   3.5   0:19.66 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  66M S 18.0   3.6   0:20.10 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  98M  66M S 42.0   3.6   0:20.28 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  99M  66M R 42.0   3.6   0:20.70 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang[H[JTasks: 557 total,   4 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  99M  66M S  3.0   3.6   0:21.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  99M  66M S  7.0   3.6   0:21.15 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  99M  66M S 58.0   3.6   0:21.22 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  96M  65M S  3.0   3.5   0:21.80 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.09 grep zfdang
+23152 u0_a3364     10 -10 2.2G  96M  65M S  5.0   3.5   0:21.83 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  96M  65M S 51.0   3.5   0:21.88 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  65M S 10.0   3.6   0:22.39 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  65M S 26.0   3.6   0:22.49 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  65M S  0.0   3.6   0:22.75 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  65M S  3.0   3.6   0:22.75 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  98M  65M S  7.0   3.6   0:22.78 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  98M  65M S 35.0   3.6   0:22.85 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G 100M  66M S  9.0   3.7   0:23.20 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G 100M  67M S 18.0   3.7   0:23.29 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G 100M  67M S  1.0   3.7   0:23.47 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G 100M  67M S  5.0   3.7   0:23.48 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G 100M  67M S 53.0   3.7   0:23.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  99M  67M S  2.0   3.6   0:24.06 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  67M S  1.0   3.6   0:24.08 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  98M  67M S  5.0   3.6   0:24.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  67M S 57.0   3.6   0:24.14 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  99M  68M S 16.0   3.6   0:24.71 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  99M  68M R  8.0   3.6   0:24.87 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  98M  67M S  3.0   3.6   0:24.95 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  98M  67M S 12.0   3.6   0:24.98 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G  98M  67M S 41.0   3.6   0:25.10 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G  99M  68M S  1.0   3.6   0:25.51 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.11 grep zfdang[H[JTasks: 558 total,   2 running, 551 sleeping,   0 stopped,   1 zombie                                                                                                   
+23152 u0_a3364     10 -10 2.2G  99M  68M S 25.0   3.6   0:25.52 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.11 grep zfdang
+23152 u0_a3364     10 -10 2.2G 100M  68M S 53.0   3.7   0:25.77 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
+23152 u0_a3364     10 -10 2.2G 101M  68M R  222   3.7   0:26.30 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G 104M  67M S  155   3.8   0:28.52 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
+23152 u0_a3364     10 -10 2.2G 106M  67M S  129   3.9   0:30.07 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
+23152 u0_a3364     10 -10 2.2G 112M  69M S 76.0   4.1   0:31.36 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
+23152 u0_a3364     10 -10 2.2G 104M  70M S 18.0   3.8   0:32.12 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G 103M  70M S 57.0   3.8   0:32.30 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
+23152 u0_a3364     10 -10 2.2G 103M  70M S 39.0   3.8   0:32.87 com.zfdang.zsmth_android
+23152 u0_a3364     10 -10 2.2G 104M  70M R 43.0   3.8   0:33.26 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
+23152 u0_a3364     10 -10 2.2G 104M  70M R 41.0   3.8   0:33.69 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.12 grep zfdang
+24065 u0_a3364     10 -10 2.1G  50M  36M R  198   1.8   0:01.18 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.12 grep zfdang
+24065 u0_a3364     10 -10 2.2G  68M  47M S  102   2.5   0:03.16 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  75M  50M S  4.0   2.7   0:04.18 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  75M  50M S 14.0   2.7   0:04.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  75M  50M S  5.0   2.7   0:04.36 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  77M  50M S  7.0   2.8   0:04.41 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  76M  50M S 31.0   2.8   0:04.48 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  76M  51M R  134   2.8   0:04.79 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  76M  51M S  4.0   2.8   0:06.13 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  76M  51M S 18.0   2.8   0:06.17 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  76M  51M S 54.0   2.8   0:06.35 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  77M  51M S  1.0   2.8   0:06.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  77M  51M S 17.0   2.8   0:06.90 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.13 grep zfdang
+24065 u0_a3364     10 -10 2.2G  76M  50M S 37.0   2.8   0:07.07 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang[H[JTasks: 556 total,   2 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  80M  52M R 36.0   2.9   0:07.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  83M  54M S  9.0   3.0   0:07.80 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  83M  54M S  3.0   3.0   0:07.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang[H[JTasks: 558 total,   2 running, 551 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  83M  54M S  7.0   3.0   0:07.92 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  83M  54M R 45.0   3.0   0:07.99 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  82M  55M R  158   3.0   0:08.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  87M  58M S 72.0   3.2   0:10.02 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  88M  59M S 29.0   3.2   0:10.74 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  88M  59M S 59.0   3.2   0:11.03 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  89M  59M S 23.0   3.3   0:11.62 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  89M  59M R 61.0   3.3   0:11.85 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.14 grep zfdang
+24065 u0_a3364     10 -10 2.2G  90M  59M S 39.0   3.3   0:12.46 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang
+24065 u0_a3364     10 -10 2.2G  90M  59M R 41.0   3.3   0:12.85 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang
+24065 u0_a3364     10 -10 2.2G  91M  59M S 42.0   3.3   0:13.26 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang[H[JTasks: 555 total,   2 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  91M  60M R 39.0   3.3   0:13.68 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  60M R  4.0   3.3   0:14.07 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  92M  60M S  0.0   3.3   0:14.11 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  60M S 52.0   3.3   0:14.11 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  89M  58M S 42.0   3.2   0:14.63 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang
+24065 u0_a3364     10 -10 2.2G  89M  59M S  3.0   3.3   0:15.05 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  89M  59M S  9.0   3.3   0:15.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang
+24065 u0_a3364     10 -10 2.2G  90M  59M S 52.0   3.3   0:15.17 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.15 grep zfdang[H[JTasks: 556 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  91M  59M S  7.0   3.3   0:15.69 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.15 grep zfdang
+24065 u0_a3364     10 -10 2.2G  91M  58M S  0.0   3.3   0:15.76 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  91M  58M S  2.0   3.3   0:15.76 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  91M  58M S  1.0   3.3   0:15.78 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  91M  58M S 11.0   3.3   0:15.79 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  91M  58M S 85.0   3.3   0:15.90 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  91M  59M S  9.0   3.3   0:16.75 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  60M S 45.0   3.4   0:16.84 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  93M  60M S 38.0   3.4   0:17.29 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  94M  60M S 38.0   3.4   0:17.67 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  94M  60M S 47.0   3.4   0:18.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang[H[JTasks: 555 total,   3 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  90M  60M S 40.0   3.3   0:18.52 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  91M  61M S 36.0   3.3   0:18.92 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.16 grep zfdang
+24065 u0_a3364     10 -10 2.2G  91M  61M S 39.0   3.3   0:19.28 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  61M S 41.0   3.4   0:19.67 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  61M S 32.0   3.4   0:20.08 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  92M  61M S  2.0   3.4   0:20.40 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  92M  61M S  6.0   3.4   0:20.42 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  61M S 62.0   3.4   0:20.48 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  90M  60M S  3.0   3.3   0:21.10 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  90M  60M S  8.0   3.3   0:21.13 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  90M  60M S 52.0   3.3   0:21.21 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  60M S  4.0   3.4   0:21.73 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  60M R 34.0   3.4   0:21.77 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.17 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  61M S  4.0   3.4   0:22.11 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  61M S  3.0   3.4   0:22.15 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang[H[JTasks: 555 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  93M  61M S 11.0   3.4   0:22.18 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  61M S 56.0   3.4   0:22.29 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang
+24065 u0_a3364     10 -10 2.2G  94M  62M S  6.0   3.5   0:22.85 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  94M  62M S 16.0   3.4   0:22.91 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang
+24065 u0_a3364     10 -10 2.2G  94M  62M S 51.0   3.4   0:23.07 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  62M R  2.0   3.4   0:23.58 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  93M  62M S  2.0   3.4   0:23.60 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  92M  62M S 14.0   3.4   0:23.62 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.18 grep zfdang
+24065 u0_a3364     10 -10 2.2G  92M  62M R 66.0   3.4   0:23.76 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.18 grep zfdang
+24065 u0_a3364     10 -10 2.2G  94M  63M S 11.0   3.4   0:24.42 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  62M S  0.0   3.4   0:24.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  62M S  5.0   3.4   0:24.53 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  93M  62M S 11.0   3.4   0:24.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G  93M  62M S 43.0   3.4   0:24.69 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  94M  63M S  0.0   3.5   0:25.12 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G  94M  63M S 19.0   3.5   0:25.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G  95M  63M S 26.0   3.5   0:25.31 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G  95M  63M R  107   3.5   0:25.57 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G  98M  64M S 54.0   3.6   0:26.64 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G  99M  65M S 35.0   3.6   0:27.18 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G  99M  65M S 51.0   3.6   0:27.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.19 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+24065 u0_a3364     10 -10 2.2G 100M  65M S 26.0   3.7   0:28.04 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.19 grep zfdang
+24065 u0_a3364     10 -10 2.2G 100M  65M S 55.0   3.7   0:28.30 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang
+24065 u0_a3364     10 -10 2.2G 101M  65M S 25.0   3.7   0:28.85 com.zfdang.zsmth_android
+24065 u0_a3364     10 -10 2.2G 101M  65M S 62.0   3.7   0:29.10 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang
+24065 u0_a3364     10 -10 2.2G  96M  64M S 30.0   3.5   0:29.72 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang
+24952 u0_a3364     10 -10 2.1G  48M  34M R  220   1.7   0:00.80 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  70M  47M S  121   2.5   0:03.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang
+24952 u0_a3364     10 -10 2.2G  73M  49M S 13.0   2.7   0:04.21 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang
+24952 u0_a3364     10 -10 2.2G  74M  50M S 12.0   2.7   0:04.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang
+24952 u0_a3364     10 -10 2.2G  74M  50M S  6.0   2.7   0:04.46 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.20 grep zfdang
+24952 u0_a3364     10 -10 2.2G  75M  50M S  5.0   2.7   0:04.52 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  75M  50M S 32.0   2.7   0:04.57 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.20 grep zfdang
+24952 u0_a3364     10 -10 2.2G  75M  51M S  126   2.7   0:04.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  78M  51M S  7.0   2.9   0:06.15 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  78M  51M S 16.0   2.9   0:06.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  78M  51M S 51.0   2.9   0:06.38 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  75M  51M S 10.0   2.7   0:06.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  75M  51M S 26.0   2.7   0:06.99 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  75M  50M S  3.0   2.7   0:07.25 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  75M  50M S 73.0   2.7   0:07.28 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  82M  54M S  8.0   3.0   0:08.01 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  82M  54M S  1.0   3.0   0:08.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  82M  54M S  2.0   3.0   0:08.10 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  82M  55M S 16.0   3.0   0:08.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.21 grep zfdang
+24952 u0_a3364     10 -10 2.2G  82M  55M S  166   3.0   0:08.28 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.22 grep zfdang
+24952 u0_a3364     10 -10 2.2G  86M  56M R 78.0   3.1   0:09.94 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  90M  59M S 46.0   3.3   0:10.72 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.22 grep zfdang[H[JTasks: 555 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  90M  59M S 44.0   3.3   0:11.18 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  90M  59M R 34.0   3.3   0:11.62 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  91M  59M S 55.0   3.3   0:11.96 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.22 grep zfdang
+24952 u0_a3364     10 -10 2.2G  91M  60M R 26.0   3.3   0:12.51 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.22 grep zfdang
+24952 u0_a3364     10 -10 2.2G  91M  60M S 64.0   3.3   0:12.77 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  88M  59M S 24.0   3.2   0:13.41 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.22 grep zfdang
+24952 u0_a3364     10 -10 2.2G  88M  59M S 57.0   3.2   0:13.65 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.22 grep zfdang
+24952 u0_a3364     10 -10 2.2G  89M  59M S 26.0   3.2   0:14.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.22 grep zfdang
+24952 u0_a3364     10 -10 2.2G  89M  59M S  0.0   3.2   0:14.48 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  89M  59M S 10.0   3.2   0:14.48 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.23 grep zfdang
+24952 u0_a3364     10 -10 2.2G  89M  59M S 78.0   3.2   0:14.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.23 grep zfdang
+24952 u0_a3364     10 -10 2.2G  91M  59M S  1.0   3.3   0:15.36 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.23 grep zfdang
+24952 u0_a3364     10 -10 2.2G  91M  59M S  3.0   3.3   0:15.37 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  91M  59M S  6.0   3.3   0:15.40 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  92M  59M S 59.0   3.3   0:15.46 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.23 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  89M  59M S  1.0   3.2   0:16.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.23 grep zfdang
+24952 u0_a3364     10 -10 2.2G  89M  59M S  8.0   3.2   0:16.06 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  89M  59M S  3.0   3.2   0:16.14 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  89M  59M S 12.0   3.2   0:16.17 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.23 grep zfdang
+24952 u0_a3364     10 -10 2.2G  89M  59M S 81.0   3.3   0:16.29 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.23 grep zfdang
+24952 u0_a3364     10 -10 2.2G  89M  59M R 17.0   3.3   0:17.10 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.23 grep zfdang
+24952 u0_a3364     10 -10 2.2G  90M  60M S 52.0   3.3   0:17.27 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.24 grep zfdang
+24952 u0_a3364     10 -10 2.2G  91M  61M S 35.0   3.3   0:17.79 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.24 grep zfdang
+24952 u0_a3364     10 -10 2.2G  91M  61M S 39.0   3.3   0:18.14 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  92M  61M S 39.0   3.4   0:18.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.24 grep zfdang
+24952 u0_a3364     10 -10 2.2G  92M  61M S 37.0   3.4   0:18.92 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.24 grep zfdang
+24952 u0_a3364     10 -10 2.2G  92M  61M R 41.0   3.4   0:19.29 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.24 grep zfdang[H[JTasks: 556 total,   2 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  94M  62M S 42.0   3.4   0:19.70 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.24 grep zfdang
+24952 u0_a3364     10 -10 2.2G  94M  62M S 41.0   3.4   0:20.12 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  95M  62M S 32.0   3.5   0:20.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.24 grep zfdang[H[JTasks: 558 total,   2 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  95M  62M S  2.0   3.5   0:20.85 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  95M  62M S  5.0   3.5   0:20.87 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.24 grep zfdang
+24952 u0_a3364     10 -10 2.2G  95M  62M S 62.0   3.5   0:20.92 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.25 grep zfdang
+24952 u0_a3364     10 -10 2.2G  92M  61M S  2.0   3.4   0:21.54 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  92M  61M S  8.0   3.4   0:21.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.25 grep zfdang
+24952 u0_a3364     10 -10 2.2G  92M  61M S 49.0   3.4   0:21.64 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.25 grep zfdang[H[JTasks: 556 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  93M  60M S  2.0   3.4   0:22.13 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.25 grep zfdang
+24952 u0_a3364     10 -10 2.2G  93M  60M R 38.0   3.4   0:22.15 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  94M  60M S  3.0   3.4   0:22.53 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  94M  60M S  2.0   3.4   0:22.56 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  94M  60M S  8.0   3.4   0:22.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.25 grep zfdang
+24952 u0_a3364     10 -10 2.2G  94M  60M S 53.0   3.4   0:22.66 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.25 grep zfdang
+24952 u0_a3364     10 -10 2.2G  96M  62M S 11.0   3.5   0:23.19 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  96M  62M S 10.0   3.5   0:23.30 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.25 grep zfdang
+24952 u0_a3364     10 -10 2.2G  96M  62M S 51.0   3.5   0:23.40 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G  93M  62M S  1.0   3.4   0:23.91 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G  93M  62M S  2.0   3.4   0:23.92 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  93M  62M S 16.0   3.4   0:23.94 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  93M  62M S 59.0   3.4   0:24.10 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  94M  63M S  9.0   3.4   0:24.69 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G  93M  62M S  1.0   3.4   0:24.78 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G  93M  62M S  3.0   3.4   0:24.79 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang[H[JTasks: 556 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  93M  62M S 13.0   3.4   0:24.82 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G  93M  62M S 39.0   3.4   0:24.95 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  94M  63M S 23.0   3.5   0:25.34 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G  95M  63M S  4.0   3.5   0:25.57 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G  95M  63M S  121   3.5   0:25.61 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang[H[JTasks: 557 total,   1 running, 551 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  99M  64M S 29.0   3.6   0:26.82 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G  99M  65M R 52.0   3.6   0:27.11 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G 100M  65M R 43.0   3.7   0:27.63 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang[H[JTasks: 557 total,   2 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G 100M  65M S 41.0   3.7   0:28.06 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G 101M  65M S 38.0   3.7   0:28.47 com.zfdang.zsmth_android
+24952 u0_a3364     10 -10 2.2G 101M  65M S 37.0   3.7   0:28.85 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang
+24952 u0_a3364     10 -10 2.2G 102M  65M S 52.0   3.7   0:29.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.27 grep zfdang[H[JTasks: 557 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+24952 u0_a3364     10 -10 2.2G  97M  65M S 29.0   3.6   0:29.74 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.1G  26M  17M R  188   0.9   0:00.12 com.zfdang.zsmth_android
+25838 shell        20   0  13M 2.3M 1.7M S  0.0   0.0   0:00.01 cmd activity start -W com.zfdang.zsmth_android/.MainActivity
+25836 shell        20   0 8.6M 1.6M 1.2M S  0.0   0.0   0:00.02 sh /system/bin/am start -W com.zfdang.zsmth_android/.MainActivity
+25842 u0_a3364     10 -10 2.1G  60M  42M R  176   2.2   0:02.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.27 grep zfdang
+25842 u0_a3364     10 -10 2.2G  69M  48M R 58.0   2.5   0:03.76 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.28 grep zfdang
+25842 u0_a3364     10 -10 2.2G  74M  50M S  1.0   2.7   0:04.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.28 grep zfdang
+25842 u0_a3364     10 -10 2.2G  74M  50M S 15.0   2.7   0:04.35 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  76M  50M S  5.0   2.8   0:04.50 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  75M  50M S 28.0   2.7   0:04.55 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  75M  51M S 71.0   2.8   0:04.83 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.28 grep zfdang
+25842 u0_a3364     10 -10 2.2G  76M  50M R 51.0   2.8   0:05.54 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.28 grep zfdang
+25842 u0_a3364     10 -10 2.2G  79M  51M S  3.0   2.9   0:06.05 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  78M  51M S 31.0   2.9   0:06.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.28 grep zfdang
+25842 u0_a3364     10 -10 2.2G  75M  51M R 58.0   2.7   0:06.39 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.28 grep zfdang[H[JTasks: 557 total,   1 running, 551 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  75M  51M S 23.0   2.7   0:06.97 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  74M  50M S  3.0   2.7   0:07.20 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.28 grep zfdang
+25842 u0_a3364     10 -10 2.2G  74M  50M S 71.0   2.7   0:07.23 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.29 grep zfdang
+25842 u0_a3364     10 -10 2.2G  82M  54M S  9.0   3.0   0:07.94 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  82M  54M R  2.0   3.0   0:08.03 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  82M  54M S  2.0   3.0   0:08.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.29 grep zfdang[H[JTasks: 559 total,   1 running, 553 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  82M  54M S 12.0   3.0   0:08.07 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.29 grep zfdang
+25842 u0_a3364     10 -10 2.2G  82M  54M S 46.0   3.0   0:08.19 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  84M  55M R  153   3.1   0:08.65 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.29 grep zfdang
+25842 u0_a3364     10 -10 2.2G  89M  58M S 72.0   3.2   0:10.18 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.29 grep zfdang
+25842 u0_a3364     10 -10 2.2G  90M  59M S 28.0   3.3   0:10.90 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  90M  59M S 65.0   3.3   0:11.18 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.29 grep zfdang
+25842 u0_a3364     10 -10 2.2G  91M  59M S 26.0   3.3   0:11.83 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.29 grep zfdang
+25842 u0_a3364     10 -10 2.2G  91M  59M S 70.0   3.3   0:12.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.29 grep zfdang
+25842 u0_a3364     10 -10 2.2G  88M  59M S 36.0   3.2   0:12.79 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang
+25842 u0_a3364     10 -10 2.2G  88M  59M R 41.0   3.2   0:13.15 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang
+25842 u0_a3364     10 -10 2.2G  88M  59M S 49.0   3.2   0:13.56 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  89M  59M S 41.0   3.2   0:14.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang
+25842 u0_a3364     10 -10 2.2G  89M  59M S  7.0   3.3   0:14.46 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  89M  59M S  3.0   3.3   0:14.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang
+25842 u0_a3364     10 -10 2.2G  89M  59M R 53.0   3.3   0:14.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang
+25842 u0_a3364     10 -10 2.2G  90M  58M S 33.0   3.3   0:15.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang
+25842 u0_a3364     10 -10 2.2G  88M  59M S  2.0   3.2   0:15.42 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  88M  59M S  1.0   3.2   0:15.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang[H[JTasks: 554 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  88M  59M R 46.0   3.2   0:15.45 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.30 grep zfdang[H[JTasks: 554 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  89M  58M S 10.0   3.3   0:15.91 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.30 grep zfdang
+25842 u0_a3364     10 -10 2.2G  90M  58M S  8.0   3.3   0:16.01 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  90M  59M S  2.0   3.3   0:16.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang[H[JTasks: 556 total,   5 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  90M  59M R  1.0   3.3   0:16.11 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  90M  59M S  7.0   3.3   0:16.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  90M  59M R 52.0   3.3   0:16.19 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  94M  59M R 45.0   3.4   0:16.71 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang[H[JTasks: 553 total,   1 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  91M  60M S 52.0   3.3   0:17.16 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  92M  60M R 22.0   3.4   0:17.68 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  92M  60M S 53.0   3.4   0:17.90 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  93M  60M S 29.0   3.4   0:18.43 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  93M  60M R 44.0   3.4   0:18.72 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  94M  62M S 45.0   3.4   0:19.16 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang[H[JTasks: 554 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  94M  62M S 41.0   3.4   0:19.61 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  95M  62M R 41.0   3.5   0:20.02 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  95M  62M R 38.0   3.5   0:20.43 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang[H[JTasks: 556 total,   3 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  95M  62M R  3.0   3.5   0:20.81 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  95M  62M S  6.0   3.5   0:20.84 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  96M  62M S 60.0   3.5   0:20.90 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  91M  60M S  6.0   3.3   0:21.50 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  91M  60M S  6.0   3.3   0:21.56 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  91M  60M S 46.0   3.3   0:21.62 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  93M  60M R 12.0   3.4   0:22.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  94M  61M S 33.0   3.4   0:22.20 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.32 grep zfdang
+25842 u0_a3364     10 -10 2.2G  94M  60M R  2.0   3.4   0:22.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  94M  60M S  2.0   3.4   0:22.55 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  94M  60M S  1.0   3.4   0:22.57 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  94M  60M S 20.0   3.4   0:22.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  95M  61M R 44.0   3.5   0:22.78 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  92M  62M S 20.0   3.3   0:23.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang[H[JTasks: 556 total,   3 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  91M  62M S  0.0   3.3   0:23.42 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  91M  62M S 23.0   3.3   0:23.42 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  92M  62M R 35.0   3.4   0:23.65 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  94M  62M S  2.0   3.4   0:24.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  93M  62M S  1.0   3.4   0:24.02 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  93M  62M S 12.0   3.4   0:24.03 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.33 grep zfdang
+25842 u0_a3364     10 -10 2.2G  93M  62M R 65.0   3.4   0:24.15 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang
+25842 u0_a3364     10 -10 2.2G  94M  63M S 13.0   3.4   0:24.80 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang
+25842 u0_a3364     10 -10 2.2G  93M  62M S  1.0   3.4   0:24.93 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang[H[JTasks: 556 total,   2 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  93M  62M S  2.0   3.4   0:24.94 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  93M  62M S 12.0   3.4   0:24.96 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang
+25842 u0_a3364     10 -10 2.2G  93M  62M R 43.0   3.4   0:25.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang
+25842 u0_a3364     10 -10 2.2G  94M  63M S 22.0   3.4   0:25.51 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang[H[JTasks: 554 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+25842 u0_a3364     10 -10 2.2G  95M  63M S  3.0   3.5   0:25.73 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang
+25842 u0_a3364     10 -10 2.2G  95M  63M S  122   3.5   0:25.76 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  99M  64M R 27.0   3.6   0:26.98 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.34 grep zfdang
+25842 u0_a3364     10 -10 2.2G  99M  65M S 50.0   3.6   0:27.25 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G 100M  65M S 37.0   3.7   0:27.75 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.34 grep zfdang
+25842 u0_a3364     10 -10 2.2G 100M  65M S 51.0   3.7   0:28.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+25842 u0_a3364     10 -10 2.2G  95M  64M S 41.0   3.5   0:28.63 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+25842 u0_a3364     10 -10 2.2G  96M  64M S 41.0   3.5   0:29.04 com.zfdang.zsmth_android
+25842 u0_a3364     10 -10 2.2G  96M  64M S 48.0   3.5   0:29.45 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+25842 u0_a3364     10 -10 2.2G  96M  64M S 26.0   3.5   0:29.93 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.1G  31M  22M R  200   1.1   0:00.29 com.zfdang.zsmth_android
+26715 shell        20   0  13M 2.3M 1.7M S  0.0   0.0   0:00.01 cmd activity start -W com.zfdang.zsmth_android/.MainActivity
+26713 shell        20   0 8.6M 1.6M 1.2M S  0.0   0.0   0:00.02 sh /system/bin/am start -W com.zfdang.zsmth_android/.MainActivity
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  67M  46M R  149   2.4   0:02.29 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  72M  48M R 58.0   2.6   0:03.78 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  73M  50M S 10.0   2.7   0:04.36 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  73M  50M S  6.0   2.7   0:04.46 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang[H[JTasks: 554 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+26719 u0_a3364     10 -10 2.2G  75M  50M S  5.0   2.7   0:04.52 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  74M  50M S 30.0   2.7   0:04.57 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  74M  51M S 93.0   2.7   0:04.87 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  76M  50M R 30.0   2.8   0:05.80 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  78M  51M S  3.0   2.8   0:06.10 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  78M  51M S 29.0   2.8   0:06.13 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  83M  52M R 37.0   3.0   0:06.42 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  78M  51M S 27.0   2.8   0:06.79 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  78M  51M S  1.0   2.9   0:07.06 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  78M  51M R 49.0   2.9   0:07.07 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  78M  52M R 35.0   2.8   0:07.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  81M  54M S  9.0   3.0   0:07.91 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  81M  54M S  3.0   2.9   0:08.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.36 grep zfdang
+26719 u0_a3364     10 -10 2.2G  81M  54M S  9.0   2.9   0:08.03 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  81M  54M R 52.0   2.9   0:08.12 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  83M  55M R  146   3.0   0:08.64 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  88M  58M S 70.0   3.2   0:10.10 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  89M  59M S 24.0   3.3   0:10.80 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  89M  59M S 60.0   3.3   0:11.04 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  90M  59M S 34.0   3.3   0:11.64 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.38 grep zfdang
+26719 u0_a3364     10 -10 2.2G  91M  59M S 54.0   3.3   0:11.98 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  91M  59M S 40.0   3.3   0:12.52 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  91M  59M R 39.0   3.3   0:12.92 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  92M  59M S 43.0   3.4   0:13.31 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  92M  59M S 45.0   3.4   0:13.74 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  60M S  3.0   3.4   0:14.19 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  60M S  0.0   3.4   0:14.22 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  60M S 55.0   3.4   0:14.22 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  88M  58M R 39.0   3.2   0:14.77 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  90M  59M S  3.0   3.3   0:15.16 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  90M  59M S  8.0   3.3   0:15.19 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.38 grep zfdang
+26719 u0_a3364     10 -10 2.2G  90M  59M S 57.0   3.3   0:15.27 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.38 grep zfdang
+26719 u0_a3364     10 -10 2.2G  88M  59M S  9.0   3.2   0:15.84 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.38 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+26719 u0_a3364     10 -10 2.2G  88M  58M S  0.0   3.2   0:15.93 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.38 grep zfdang
+26719 u0_a3364     10 -10 2.2G  88M  58M S  3.0   3.2   0:15.93 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  88M  58M S  7.0   3.2   0:15.96 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.38 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+26719 u0_a3364     10 -10 2.2G  88M  58M S 85.0   3.2   0:16.03 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.38 grep zfdang
+26719 u0_a3364     10 -10 2.2G  92M  59M S 27.0   3.4   0:16.88 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+26719 u0_a3364     10 -10 2.2G  93M  60M S 38.0   3.4   0:17.15 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  94M  60M S 46.0   3.4   0:17.53 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  90M  60M S 39.0   3.3   0:17.99 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  90M  60M S 45.0   3.3   0:18.38 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  92M  61M S 31.0   3.4   0:18.83 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  92M  62M S 51.0   3.4   0:19.14 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  92M  62M S 25.0   3.4   0:19.65 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  93M  62M S 55.0   3.4   0:19.90 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang[H[JTasks: 555 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+26719 u0_a3364     10 -10 2.2G  93M  62M S 21.0   3.4   0:20.45 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  93M  62M S  2.0   3.4   0:20.66 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S  9.0   3.4   0:20.68 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  94M  62M S 58.0   3.4   0:20.77 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  91M  61M S  3.0   3.3   0:21.35 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  91M  61M S  0.0   3.3   0:21.38 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  91M  61M S  8.0   3.3   0:21.38 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  91M  61M S 62.0   3.3   0:21.46 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  61M S  1.0   3.4   0:22.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  93M  61M R 36.0   3.4   0:22.09 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  60M S  0.0   3.4   0:22.45 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.40 grep zfdang[H[JTasks: 557 total,   3 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+26719 u0_a3364     10 -10 2.2G  93M  60M S  3.0   3.4   0:22.45 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  60M S 12.0   3.4   0:22.48 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  60M S 48.0   3.4   0:22.60 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.40 grep zfdang
+26719 u0_a3364     10 -10 2.2G  95M  62M S  3.0   3.5   0:23.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.42 grep zfdang
+26719 u0_a3364     10 -10 2.2G  95M  62M S 20.0   3.5   0:23.11 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  95M  62M S 47.0   3.5   0:23.31 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M R  9.0   3.4   0:23.78 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S  3.0   3.4   0:23.87 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S  3.0   3.4   0:23.90 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S 77.0   3.4   0:23.93 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  94M  63M S 13.0   3.4   0:24.70 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S  1.0   3.4   0:24.83 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S  3.0   3.4   0:24.84 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S 12.0   3.4   0:24.87 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  93M  62M S 42.0   3.4   0:24.99 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  95M  63M S 18.0   3.5   0:25.41 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  95M  63M S  4.0   3.5   0:25.59 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  95M  63M S 95.0   3.5   0:25.63 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.42 grep zfdang
+26719 u0_a3364     10 -10 2.2G  97M  63M R 32.0   3.5   0:26.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.42 grep zfdang
+26719 u0_a3364     10 -10 2.2G  99M  64M S 66.0   3.6   0:26.90 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G 100M  65M S 32.0   3.7   0:27.56 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G 100M  65M S 46.0   3.7   0:27.88 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.42 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+26719 u0_a3364     10 -10 2.2G 100M  65M S 38.0   3.7   0:28.34 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G 101M  65M R 38.0   3.7   0:28.72 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G 101M  65M S 53.0   3.7   0:29.10 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  97M  65M S 44.0   3.5   0:29.63 com.zfdang.zsmth_android
+26719 u0_a3364     10 -10 2.2G  96M  64M S 39.0   3.5   0:30.07 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.42 grep zfdang
+27607 shell        20   0  13M 2.3M 1.7M S  0.0   0.0   0:00.02 cmd activity start -W com.zfdang.zsmth_android/.MainActivity
+27603 shell        20   0 8.6M 1.6M 1.2M S  0.0   0.0   0:00.02 sh /system/bin/am start -W com.zfdang.zsmth_android/.MainActivity
+27611 u0_a3364     10 -10 2.1G  55M  39M S  194   2.0   0:01.59 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  69M  48M R 73.0   2.5   0:03.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  74M  50M S  1.0   2.7   0:04.26 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  74M  50M S 14.0   2.7   0:04.27 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  75M  50M S 10.0   2.7   0:04.41 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  75M  50M S 24.0   2.7   0:04.51 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  75M  51M R 57.0   2.7   0:04.75 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang[H[JTasks: 555 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G  76M  49M R 76.0   2.8   0:05.32 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  79M  51M S  4.0   2.9   0:06.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  78M  51M S  2.0   2.9   0:06.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  78M  51M S 28.0   2.9   0:06.14 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  82M  51M R 47.0   3.0   0:06.42 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  76M  51M S 27.0   2.8   0:06.89 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  75M  50M S  1.0   2.7   0:07.16 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  75M  50M S 27.0   2.7   0:07.17 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  78M  52M R 48.0   2.8   0:07.44 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  82M  54M S 10.0   3.0   0:07.92 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  82M  54M S  0.0   3.0   0:08.02 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  82M  54M S  3.0   3.0   0:08.02 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  82M  54M S 18.0   3.0   0:08.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  82M  54M S 65.0   3.0   0:08.23 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  85M  55M S  142   3.1   0:08.88 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.44 grep zfdang
+27611 u0_a3364     10 -10 2.2G  89M  58M S 74.0   3.2   0:10.30 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  90M  59M S 29.0   3.3   0:11.04 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  90M  59M S 59.0   3.3   0:11.33 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.46 grep zfdang
+27611 u0_a3364     10 -10 2.2G  91M  59M S 37.0   3.3   0:11.92 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.46 grep zfdang[H[JTasks: 554 total,   3 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G  91M  59M R 42.0   3.3   0:12.29 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  59M S 44.0   3.4   0:12.71 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  60M S 46.0   3.4   0:13.15 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.46 grep zfdang
+27611 u0_a3364     10 -10 2.2G  88M  59M S 42.0   3.2   0:13.61 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  89M  59M S 33.0   3.2   0:14.03 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  89M  59M S  2.0   3.3   0:14.36 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  89M  59M S  9.0   3.3   0:14.38 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.46 grep zfdang
+27611 u0_a3364     10 -10 2.2G  89M  59M S 76.0   3.3   0:14.47 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  59M S  3.0   3.3   0:15.23 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  59M S  5.0   3.3   0:15.26 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  59M S 49.0   3.3   0:15.31 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  89M  59M R  5.0   3.2   0:15.80 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.46 grep zfdang
+27611 u0_a3364     10 -10 2.2G  89M  59M S  8.0   3.2   0:15.85 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  89M  59M S  2.0   3.3   0:15.93 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  89M  59M S  5.0   3.3   0:15.95 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  89M  59M S 70.0   3.3   0:16.00 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  93M  59M S 22.0   3.4   0:16.70 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  91M  60M S 51.0   3.3   0:16.92 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  91M  60M S 29.0   3.3   0:17.43 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.46 grep zfdang[H[JTasks: 555 total,   3 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G  92M  61M R 51.0   3.3   0:17.72 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  61M S 40.0   3.4   0:18.23 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  61M R 35.0   3.4   0:18.63 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.46 grep zfdang[H[JTasks: 555 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G  94M  62M S 42.0   3.4   0:18.98 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.46 grep zfdang
+27611 u0_a3364     10 -10 2.2G  94M  62M R 40.0   3.4   0:19.40 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  94M  62M S 45.0   3.5   0:19.80 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  95M  62M R 31.0   3.5   0:20.25 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.48 grep zfdang
+27611 u0_a3364     10 -10 2.2G  95M  62M S  2.0   3.5   0:20.56 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  95M  62M S  8.0   3.5   0:20.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.48 grep zfdang
+27611 u0_a3364     10 -10 2.2G  95M  62M S 63.0   3.5   0:20.66 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  61M S  5.0   3.4   0:21.29 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  91M  61M S  8.0   3.3   0:21.34 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  61M S 54.0   3.3   0:21.42 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.48 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G  94M  61M S  3.0   3.4   0:21.96 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.48 grep zfdang[H[JTasks: 555 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G  94M  61M S 35.0   3.4   0:21.99 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  94M  60M S  0.0   3.4   0:22.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.48 grep zfdang
+27611 u0_a3364     10 -10 2.2G  94M  60M S  3.0   3.4   0:22.34 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  94M  60M S 12.0   3.4   0:22.37 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  94M  60M S 51.0   3.4   0:22.49 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  96M  62M S  8.0   3.5   0:23.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.48 grep zfdang
+27611 u0_a3364     10 -10 2.2G  95M  62M S 16.0   3.5   0:23.08 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  96M  62M S 52.0   3.5   0:23.24 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  93M  62M R  2.0   3.4   0:23.76 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  93M  62M S  2.0   3.4   0:23.78 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  92M  62M S 17.0   3.4   0:23.80 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  93M  62M S 58.0   3.4   0:23.97 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  94M  63M S  9.0   3.4   0:24.55 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  93M  62M S  1.0   3.4   0:24.64 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  93M  62M S  2.0   3.4   0:24.65 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  93M  62M S 33.0   3.4   0:24.67 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.48 grep zfdang
+27611 u0_a3364     10 -10 2.2G  94M  63M S 15.0   3.4   0:25.00 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  94M  63M S 20.0   3.4   0:25.15 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  94M  63M S  4.0   3.5   0:25.35 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  95M  63M S  127   3.5   0:25.39 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  99M  64M S 43.0   3.6   0:26.66 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G 100M  65M R 47.0   3.7   0:27.09 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G 100M  65M S 40.0   3.7   0:27.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang[H[JTasks: 555 total,   1 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G 101M  65M S 40.0   3.7   0:27.96 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G 101M  65M S 53.0   3.7   0:28.36 com.zfdang.zsmth_android
+27611 u0_a3364     10 -10 2.2G  97M  64M S 28.0   3.5   0:28.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+27611 u0_a3364     10 -10 2.2G  96M  64M S 57.0   3.5   0:29.17 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang
+27611 u0_a3364     10 -10 2.2G  97M  64M S 23.0   3.6   0:29.74 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.1G  43M  31M R  217   1.5   0:00.59 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  70M  47M S  135   2.5   0:02.76 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang
+28491 u0_a3364     10 -10 2.2G  72M  49M S 14.0   2.6   0:04.11 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang
+28491 u0_a3364     10 -10 2.2G  73M  50M S 13.0   2.7   0:04.25 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang[H[JTasks: 555 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  73M  50M S  6.0   2.7   0:04.38 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  75M  50M S  6.0   2.7   0:04.44 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  74M  50M S  1.0   2.7   0:04.50 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  74M  50M S  1.0   2.7   0:04.51 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  74M  50M S 35.0   2.7   0:04.52 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang
+28491 u0_a3364     10 -10 2.2G  74M  51M S  128   2.7   0:04.87 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang[H[JTasks: 554 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  75M  51M S  4.0   2.7   0:06.15 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  74M  51M S  1.0   2.7   0:06.19 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang[H[JTasks: 553 total,   1 running, 545 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  74M  51M S 21.0   2.7   0:06.20 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.50 grep zfdang
+28491 u0_a3364     10 -10 2.2G  75M  51M S 59.0   2.7   0:06.41 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.50 grep zfdang
+28491 u0_a3364     10 -10 2.2G  75M  51M S 19.0   2.8   0:07.00 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  75M  50M R  3.0   2.7   0:07.19 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.51 grep zfdang[H[JTasks: 554 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  75M  50M S  7.0   2.7   0:07.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.51 grep zfdang
+28491 u0_a3364     10 -10 2.2G  75M  50M S 68.0   2.7   0:07.29 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  82M  54M S  8.0   3.0   0:07.97 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.51 grep zfdang
+28491 u0_a3364     10 -10 2.2G  82M  54M S  0.0   3.0   0:08.05 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  82M  54M S 13.0   3.0   0:08.05 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  82M  54M S 28.0   3.0   0:08.18 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  83M  55M R  172   3.0   0:08.46 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  88M  58M S 70.0   3.2   0:10.18 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  90M  59M S 33.0   3.3   0:10.88 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.51 grep zfdang[H[JTasks: 554 total,   3 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  90M  59M S 59.0   3.3   0:11.21 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.51 grep zfdang[H[JTasks: 554 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  91M  59M S 24.0   3.3   0:11.80 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.51 grep zfdang
+28491 u0_a3364     10 -10 2.2G  92M  59M S 63.0   3.3   0:12.04 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.52 grep zfdang[H[JTasks: 554 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  88M  59M S 40.0   3.2   0:12.67 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  88M  59M R 46.0   3.2   0:13.07 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.52 grep zfdang
+28491 u0_a3364     10 -10 2.2G  89M  59M S 50.0   3.2   0:13.53 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  89M  59M R 38.0   3.2   0:14.03 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.52 grep zfdang
+28491 u0_a3364     10 -10 2.2G  89M  59M S  8.0   3.3   0:14.41 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  89M  59M S 10.0   3.3   0:14.49 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.52 grep zfdang
+28491 u0_a3364     10 -10 2.2G  89M  59M S 79.0   3.3   0:14.59 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  88M  58M S  3.0   3.2   0:15.38 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  88M  59M S  6.0   3.2   0:15.41 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  88M  59M S 50.0   3.2   0:15.47 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  90M  59M S  2.0   3.3   0:15.97 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.52 grep zfdang
+28491 u0_a3364     10 -10 2.2G  90M  59M S  6.0   3.3   0:15.99 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.52 grep zfdang
+28491 u0_a3364     10 -10 2.2G  90M  59M S  3.0   3.3   0:16.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.52 grep zfdang
+28491 u0_a3364     10 -10 2.2G  91M  59M S  9.0   3.3   0:16.08 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  91M  59M S 73.0   3.3   0:16.17 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  91M  59M S 22.0   3.3   0:16.90 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  92M  60M S 48.0   3.4   0:17.12 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  92M  60M S 36.0   3.4   0:17.60 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang[H[JTasks: 554 total,   2 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  93M  60M R 41.0   3.4   0:17.96 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang
+28491 u0_a3364     10 -10 2.2G  93M  61M R 38.0   3.4   0:18.37 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  93M  61M R 37.0   3.4   0:18.75 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang
+28491 u0_a3364     10 -10 2.2G  94M  62M S 39.0   3.5   0:19.12 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  95M  62M S 38.0   3.5   0:19.51 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  95M  62M S 43.0   3.5   0:19.89 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  96M  62M S 28.0   3.5   0:20.32 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  96M  62M S  3.0   3.5   0:20.60 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  96M  62M S  7.0   3.5   0:20.63 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang
+28491 u0_a3364     10 -10 2.2G  96M  62M S 61.0   3.5   0:20.70 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  92M  60M S  3.0   3.4   0:21.31 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  92M  60M S  6.0   3.4   0:21.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang
+28491 u0_a3364     10 -10 2.2G  92M  60M S 31.0   3.4   0:21.40 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  92M  60M S 11.0   3.4   0:21.71 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  93M  61M S 26.0   3.4   0:21.82 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  93M  61M S  1.0   3.4   0:22.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang
+28491 u0_a3364     10 -10 2.2G  93M  61M S  2.0   3.4   0:22.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang[H[JTasks: 555 total,   3 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  93M  61M S  1.0   3.4   0:22.11 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  93M  61M S  1.0   3.4   0:22.12 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.54 grep zfdang
+28491 u0_a3364     10 -10 2.2G  93M  61M S 14.0   3.4   0:22.13 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.54 grep zfdang
+28491 u0_a3364     10 -10 2.2G  93M  61M S 51.0   3.4   0:22.27 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  95M  62M S 22.0   3.5   0:22.78 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  95M  62M S  7.0   3.5   0:23.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.55 grep zfdang[H[JTasks: 554 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  95M  62M S 45.0   3.5   0:23.07 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  98M  62M S  1.0   3.6   0:23.52 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  98M  62M S  2.0   3.6   0:23.53 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  98M  62M S  1.0   3.6   0:23.55 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.55 grep zfdang[H[JTasks: 555 total,   2 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  98M  62M S  0.0   3.6   0:23.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.55 grep zfdang
+28491 u0_a3364     10 -10 2.2G  98M  62M S  6.0   3.6   0:23.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.55 grep zfdang
+28491 u0_a3364     10 -10 2.2G  98M  62M S 70.0   3.6   0:23.62 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.55 grep zfdang
+28491 u0_a3364     10 -10 2.2G  99M  63M S 15.0   3.6   0:24.32 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  98M  62M S  1.0   3.6   0:24.47 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.55 grep zfdang
+28491 u0_a3364     10 -10 2.2G  98M  62M S  2.0   3.6   0:24.48 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  98M  62M S  7.0   3.6   0:24.50 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.55 grep zfdang
+28491 u0_a3364     10 -10 2.2G  99M  62M S 46.0   3.6   0:24.57 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.56 grep zfdang
+28491 u0_a3364     10 -10 2.2G 100M  63M S 18.0   3.7   0:25.03 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G 100M  63M S  4.0   3.7   0:25.21 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G 100M  63M S  109   3.7   0:25.25 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  97M  63M R 30.0   3.5   0:26.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.56 grep zfdang
+28491 u0_a3364     10 -10 2.2G  97M  64M R 52.0   3.5   0:26.64 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  98M  64M S 44.0   3.6   0:27.16 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.56 grep zfdang[H[JTasks: 554 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  98M  65M S 44.0   3.6   0:27.60 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G  99M  65M S 43.0   3.6   0:28.04 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.56 grep zfdang[H[JTasks: 554 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+28491 u0_a3364     10 -10 2.2G  99M  65M S 41.0   3.6   0:28.47 com.zfdang.zsmth_android
+28491 u0_a3364     10 -10 2.2G 100M  65M S 44.0   3.6   0:28.88 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.56 grep zfdang
+28491 u0_a3364     10 -10 2.2G 100M  65M S 28.0   3.7   0:29.32 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.56 grep zfdang
+29387 u0_a3364     10 -10 2.1G  28M  19M S  200   1.0   0:00.14 com.zfdang.zsmth_android
+29383 shell        20   0  13M 2.3M 1.7M S  0.0   0.0   0:00.01 cmd activity start -W com.zfdang.zsmth_android/.MainActivity
+29381 shell        20   0 8.6M 1.6M 1.2M S  0.0   0.0   0:00.02 sh /system/bin/am start -W com.zfdang.zsmth_android/.MainActivity
+29387 u0_a3364     10 -10 2.1G  66M  42M R  159   2.4   0:02.14 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  71M  48M R 63.0   2.6   0:03.73 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  73M  50M S  4.0   2.6   0:04.36 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.57 grep zfdang
+29387 u0_a3364     10 -10 2.2G  72M  50M S  8.0   2.6   0:04.40 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.57 grep zfdang[H[JTasks: 554 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  74M  50M S  6.0   2.7   0:04.48 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  73M  50M S  2.0   2.7   0:04.54 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  73M  50M S  1.0   2.7   0:04.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.57 grep zfdang[H[JTasks: 554 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  73M  50M S 27.0   2.7   0:04.57 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.57 grep zfdang
+29387 u0_a3364     10 -10 2.2G  74M  51M S  112   2.7   0:04.84 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.57 grep zfdang
+29387 u0_a3364     10 -10 2.2G  77M  51M S 10.0   2.8   0:05.96 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  77M  51M S  8.0   2.8   0:06.06 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  77M  51M R 44.0   2.8   0:06.14 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.57 grep zfdang
+29387 u0_a3364     10 -10 2.2G  77M  51M S 20.0   2.8   0:06.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.58 grep zfdang
+29387 u0_a3364     10 -10 2.2G  78M  51M S 27.0   2.8   0:06.78 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  77M  50M S  4.0   2.8   0:07.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.58 grep zfdang
+29387 u0_a3364     10 -10 2.2G  77M  50M S 75.0   2.8   0:07.09 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  81M  54M S  5.0   3.0   0:07.84 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.58 grep zfdang
+29387 u0_a3364     10 -10 2.2G  81M  54M R  4.0   3.0   0:07.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.58 grep zfdang
+29387 u0_a3364     10 -10 2.2G  81M  54M S  2.0   3.0   0:07.93 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  81M  54M S 13.0   3.0   0:07.95 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.58 grep zfdang[H[JTasks: 554 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  81M  54M S  132   3.0   0:08.08 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  85M  56M S 95.0   3.1   0:09.40 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  89M  59M R 50.0   3.3   0:10.35 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.58 grep zfdang
+29387 u0_a3364     10 -10 2.2G  90M  59M S 47.0   3.3   0:10.85 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.58 grep zfdang
+29387 u0_a3364     10 -10 2.2G  90M  59M S 49.0   3.3   0:11.32 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  91M  59M S 40.0   3.3   0:11.81 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.59 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  59M S 41.0   3.3   0:12.21 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  92M  60M S 49.0   3.3   0:12.62 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.59 grep zfdang[H[JTasks: 553 total,   1 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  92M  60M S 30.0   3.4   0:13.11 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  92M  60M S 61.0   3.4   0:13.41 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.59 grep zfdang
+29387 u0_a3364     10 -10 2.2G  89M  60M S 22.0   3.3   0:14.02 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  89M  60M S  2.0   3.2   0:14.24 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  89M  60M S  9.0   3.2   0:14.26 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.59 grep zfdang[H[JTasks: 554 total,   2 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  89M  60M S 76.0   3.3   0:14.35 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  91M  59M S  6.0   3.3   0:15.11 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.59 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  59M S  9.0   3.3   0:15.17 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.59 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  59M S 45.0   3.3   0:15.26 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  89M  58M R 11.0   3.2   0:15.71 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.59 grep zfdang
+29387 u0_a3364     10 -10 2.2G  89M  59M S  7.0   3.3   0:15.82 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  89M  58M S  2.0   3.2   0:15.89 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  89M  58M S 10.0   3.2   0:15.91 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.60 grep zfdang[H[JTasks: 553 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  88M  58M S 45.0   3.2   0:16.01 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  90M  59M S 50.0   3.3   0:16.46 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  90M  59M S 53.0   3.3   0:16.96 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  90M  60M S 27.0   3.3   0:17.49 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.60 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  60M R 48.0   3.3   0:17.76 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.60 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  61M S 40.0   3.3   0:18.24 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.60 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  61M S 39.0   3.3   0:18.64 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  93M  62M S 38.0   3.4   0:19.03 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  93M  62M R 41.0   3.4   0:19.41 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.60 grep zfdang
+29387 u0_a3364     10 -10 2.2G  94M  62M S 39.0   3.4   0:19.82 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  94M  62M S 31.0   3.4   0:20.21 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  95M  62M S  2.0   3.5   0:20.52 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.61 grep zfdang
+29387 u0_a3364     10 -10 2.2G  95M  62M S  5.0   3.5   0:20.54 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  95M  62M S 57.0   3.5   0:20.59 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.61 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  60M S  4.0   3.3   0:21.16 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.61 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  61M S  7.0   3.3   0:21.20 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.61 grep zfdang
+29387 u0_a3364     10 -10 2.2G  91M  61M S 33.0   3.3   0:21.27 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.61 grep zfdang[H[JTasks: 552 total,   1 running, 545 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  92M  61M S  8.0   3.4   0:21.60 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  93M  61M S 27.0   3.4   0:21.68 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  93M  61M S  1.0   3.4   0:21.95 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.61 grep zfdang
+29387 u0_a3364     10 -10 2.2G  93M  61M S  2.0   3.4   0:21.96 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  93M  61M S  6.0   3.4   0:21.98 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.61 grep zfdang
+29387 u0_a3364     10 -10 2.2G  93M  61M S 34.0   3.4   0:22.04 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.62 grep zfdang
+29387 u0_a3364     10 -10 2.2G  95M  62M S 13.0   3.5   0:22.38 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.62 grep zfdang
+29387 u0_a3364     10 -10 2.2G  95M  62M S 21.0   3.5   0:22.51 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  95M  62M S  4.0   3.5   0:22.72 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  95M  62M S 45.0   3.5   0:22.76 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.62 grep zfdang[H[JTasks: 552 total,   2 running, 544 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  97M  62M S  4.0   3.6   0:23.21 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.62 grep zfdang
+29387 u0_a3364     10 -10 2.2G  97M  63M S  2.0   3.6   0:23.25 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  97M  63M S  1.0   3.6   0:23.27 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.62 grep zfdang
+29387 u0_a3364     10 -10 2.2G  97M  63M S 35.0   3.6   0:23.28 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  98M  63M S 36.0   3.6   0:23.63 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  98M  63M S 12.0   3.6   0:23.99 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.62 grep zfdang
+29387 u0_a3364     10 -10 2.2G  97M  62M S  2.0   3.6   0:24.11 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.62 grep zfdang
+29387 u0_a3364     10 -10 2.2G  97M  62M S 12.0   3.6   0:24.13 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  98M  62M S 42.0   3.6   0:24.25 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.62 grep zfdang
+29387 u0_a3364     10 -10 2.2G  94M  63M S  3.0   3.4   0:24.67 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang
+29387 u0_a3364     10 -10 2.2G  94M  63M S 24.0   3.4   0:24.70 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G  93M  63M S 32.0   3.4   0:24.94 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang[H[JTasks: 552 total,   2 running, 544 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  95M  64M R 98.0   3.5   0:25.26 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang
+29387 u0_a3364     10 -10 2.2G  97M  64M S 57.0   3.6   0:26.24 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang[H[JTasks: 553 total,   2 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  98M  64M S 33.0   3.6   0:26.81 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang
+29387 u0_a3364     10 -10 2.2G  98M  65M S 51.0   3.6   0:27.14 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang
+29387 u0_a3364     10 -10 2.2G  99M  65M S 24.0   3.6   0:27.65 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang[H[JTasks: 553 total,   1 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+29387 u0_a3364     10 -10 2.2G  99M  65M S 57.0   3.6   0:27.89 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang
+29387 u0_a3364     10 -10 2.2G 100M  65M S 27.0   3.7   0:28.46 com.zfdang.zsmth_android
+29387 u0_a3364     10 -10 2.2G 100M  65M S 49.0   3.7   0:28.73 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.63 grep zfdang
+29387 u0_a3364     10 -10 2.2G 100M  65M S 42.0   3.7   0:29.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.63 grep zfdang
+30270 u0_a3364     10 -10 2.1G  50M  36M R  195   1.8   0:01.19 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  67M  47M S  118   2.4   0:03.14 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.64 grep zfdang
+30270 u0_a3364     10 -10 2.2G  74M  50M S  6.0   2.7   0:04.32 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.64 grep zfdang
+30270 u0_a3364     10 -10 2.2G  74M  50M S 15.0   2.7   0:04.38 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.64 grep zfdang
+30270 u0_a3364     10 -10 2.2G  75M  50M S  5.0   2.7   0:04.53 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.64 grep zfdang
+30270 u0_a3364     10 -10 2.2G  76M  50M S  7.0   2.8   0:04.58 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  75M  50M S 30.0   2.7   0:04.65 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.64 grep zfdang
+30270 u0_a3364     10 -10 2.2G  76M  51M S  125   2.8   0:04.95 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.64 grep zfdang[H[JTasks: 552 total,   1 running, 545 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  76M  51M S  4.0   2.8   0:06.20 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  75M  51M S 19.0   2.7   0:06.24 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.64 grep zfdang
+30270 u0_a3364     10 -10 2.2G  75M  51M S 54.0   2.7   0:06.43 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  76M  51M S  1.0   2.8   0:06.97 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.64 grep zfdang
+30270 u0_a3364     10 -10 2.2G  76M  51M S 23.0   2.8   0:06.98 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  76M  51M S 11.0   2.8   0:07.21 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  76M  51M R 67.0   2.8   0:07.32 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  82M  54M S  9.0   3.0   0:07.99 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  82M  54M S  1.0   3.0   0:08.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  82M  54M S  2.0   3.0   0:08.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang[H[JTasks: 552 total,   1 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  82M  54M S 16.0   3.0   0:08.11 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  82M  54M R  168   3.0   0:08.27 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  85M  56M R 75.0   3.1   0:09.95 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  91M  59M S 46.0   3.3   0:10.70 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  91M  59M S 45.0   3.3   0:11.16 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  91M  59M S 35.0   3.3   0:11.61 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  92M  60M S 62.0   3.3   0:11.96 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  88M  59M S 27.0   3.2   0:12.58 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.65 grep zfdang
+30270 u0_a3364     10 -10 2.2G  88M  59M S 58.0   3.2   0:12.85 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  89M  59M S 27.0   3.2   0:13.43 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  89M  59M R 52.0   3.2   0:13.70 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  89M  59M S 21.0   3.3   0:14.22 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  89M  59M S 12.0   3.3   0:14.43 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.66 grep zfdang
+30270 u0_a3364     10 -10 2.2G  90M  59M S 70.0   3.3   0:14.55 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  88M  59M S 11.0   3.2   0:15.25 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.66 grep zfdang[H[JTasks: 554 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  88M  59M S  3.0   3.2   0:15.36 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  88M  59M S  8.0   3.2   0:15.39 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.66 grep zfdang
+30270 u0_a3364     10 -10 2.2G  88M  59M S 53.0   3.2   0:15.47 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  90M  59M S  2.0   3.3   0:16.00 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.66 grep zfdang
+30270 u0_a3364     10 -10 2.2G  90M  59M S  6.0   3.3   0:16.02 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.66 grep zfdang
+30270 u0_a3364     10 -10 2.2G  90M  58M S  1.0   3.3   0:16.08 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang
+30270 u0_a3364     10 -10 2.2G  90M  58M S  5.0   3.3   0:16.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang[H[JTasks: 553 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  90M  58M S 91.0   3.3   0:16.14 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  92M  60M S 23.0   3.4   0:17.05 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang
+30270 u0_a3364     10 -10 2.2G  92M  60M R 36.0   3.4   0:17.28 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  93M  60M S 42.0   3.4   0:17.64 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang[H[JTasks: 553 total,   1 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  93M  61M S 38.0   3.4   0:18.06 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang
+30270 u0_a3364     10 -10 2.2G  93M  61M S 38.0   3.4   0:18.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang
+30270 u0_a3364     10 -10 2.2G  94M  62M S 32.0   3.4   0:18.82 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  94M  62M S 49.0   3.5   0:19.14 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang
+30270 u0_a3364     10 -10 2.2G  95M  62M S 24.0   3.5   0:19.63 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.67 grep zfdang
+30270 u0_a3364     10 -10 2.2G  95M  62M S 54.0   3.5   0:19.87 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.67 grep zfdang
+30270 u0_a3364     10 -10 2.2G  96M  62M S 22.0   3.5   0:20.41 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.68 grep zfdang
+30270 u0_a3364     10 -10 2.2G  96M  62M S  2.0   3.5   0:20.63 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  96M  62M S  1.0   3.5   0:20.65 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  96M  62M S  8.0   3.5   0:20.66 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.68 grep zfdang
+30270 u0_a3364     10 -10 2.2G  96M  62M S 61.0   3.5   0:20.74 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.68 grep zfdang
+30270 u0_a3364     10 -10 2.2G  92M  60M S  2.0   3.4   0:21.35 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  92M  60M S  1.0   3.4   0:21.37 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  92M  60M S  6.0   3.4   0:21.38 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.68 grep zfdang
+30270 u0_a3364     10 -10 2.2G  92M  60M S 35.0   3.4   0:21.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.68 grep zfdang
+30270 u0_a3364     10 -10 2.2G  93M  61M S 22.0   3.4   0:21.79 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.68 grep zfdang[H[JTasks: 552 total,   1 running, 545 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  94M  61M S 18.0   3.4   0:22.01 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  94M  61M S  0.0   3.4   0:22.19 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.68 grep zfdang
+30270 u0_a3364     10 -10 2.2G  94M  61M S  3.0   3.4   0:22.19 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  2.0   0.0   0:00.68 grep zfdang
+30270 u0_a3364     10 -10 2.2G  94M  61M S 12.0   3.4   0:22.22 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang
+30270 u0_a3364     10 -10 2.2G  94M  61M S 49.0   3.5   0:22.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang[H[JTasks: 554 total,   1 running, 546 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  96M  62M S 20.0   3.5   0:22.83 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang
+30270 u0_a3364     10 -10 2.2G  95M  62M S  5.0   3.5   0:23.03 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  95M  62M S 48.0   3.5   0:23.08 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  98M  62M S  1.0   3.6   0:23.56 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  98M  62M S  6.0   3.6   0:23.57 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang
+30270 u0_a3364     10 -10 2.2G  98M  62M S 35.0   3.6   0:23.63 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  98M  63M S 32.0   3.6   0:23.98 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  99M  63M S 10.0   3.6   0:24.30 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  98M  62M S  4.0   3.6   0:24.40 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  98M  62M S  9.0   3.6   0:24.44 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang
+30270 u0_a3364     10 -10 2.2G  98M  62M S 40.0   3.6   0:24.53 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  99M  63M S  2.0   3.6   0:24.93 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang[H[JTasks: 556 total,   2 running, 547 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  99M  63M S 38.0   3.6   0:24.95 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  95M  63M S  4.0   3.5   0:25.33 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang
+30270 u0_a3364     10 -10 2.2G  94M  63M S 98.0   3.4   0:25.37 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  95M  63M R 21.0   3.5   0:26.35 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  97M  64M R 51.0   3.5   0:26.56 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  98M  65M S 38.0   3.6   0:27.07 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  98M  65M R 41.0   3.6   0:27.45 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  98M  65M S 45.0   3.6   0:27.86 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G  99M  65M S 44.0   3.6   0:28.31 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.70 grep zfdang[H[JTasks: 556 total,   3 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+30270 u0_a3364     10 -10 2.2G  99M  65M R 38.0   3.6   0:28.75 com.zfdang.zsmth_android
+30270 u0_a3364     10 -10 2.2G 100M  65M R 37.0   3.7   0:29.13 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.70 grep zfdang
+31234 u0_a3364     10 -10 2.1G  23M  15M R  186   0.8   0:00.10 com.zfdang.zsmth_android
+31230 shell        20   0  13M 2.3M 1.7M S  0.0   0.0   0:00.02 cmd activity start -W com.zfdang.zsmth_android/.MainActivity
+31228 shell        20   0 8.6M 1.6M 1.2M S  0.0   0.0   0:00.01 sh /system/bin/am start -W com.zfdang.zsmth_android/.MainActivity
+31234 u0_a3364     10 -10 2.1G  62M  42M R  174   2.2   0:01.96 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.71 grep zfdang
+31234 u0_a3364     10 -10 2.2G  69M  48M R 47.0   2.5   0:03.70 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.71 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  74M  50M S  1.0   2.7   0:04.17 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  74M  50M S 11.0   2.7   0:04.18 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.71 grep zfdang
+31234 u0_a3364     10 -10 2.2G  75M  50M S  5.0   2.7   0:04.29 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  74M  50M S 28.0   2.7   0:04.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.71 grep zfdang[H[JTasks: 556 total,   2 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  75M  51M R 72.0   2.7   0:04.62 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  76M  50M R 57.0   2.8   0:05.34 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.71 grep zfdang
+31234 u0_a3364     10 -10 2.2G  78M  51M S  4.0   2.9   0:05.91 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  78M  51M S 22.0   2.8   0:05.95 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.71 grep zfdang[H[JTasks: 555 total,   3 running, 545 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  78M  51M R 63.0   2.9   0:06.17 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  76M  51M S 26.0   2.8   0:06.80 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  75M  50M S  3.0   2.7   0:07.06 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.71 grep zfdang
+31234 u0_a3364     10 -10 2.2G  75M  50M S 72.0   2.7   0:07.09 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  82M  54M S  9.0   3.0   0:07.81 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  82M  54M S  1.0   3.0   0:07.90 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.72 grep zfdang
+31234 u0_a3364     10 -10 2.2G  82M  54M S  2.0   3.0   0:07.91 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.72 grep zfdang[H[JTasks: 556 total,   1 running, 549 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  82M  54M S 10.0   3.0   0:07.93 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  82M  54M S  126   3.0   0:08.03 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  85M  56M S  103   3.1   0:09.29 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  59M S 51.0   3.3   0:10.32 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  59M S 45.0   3.3   0:10.83 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  59M S 49.0   3.3   0:11.28 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  59M S 49.0   3.3   0:11.77 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.72 grep zfdang
+31234 u0_a3364     10 -10 2.2G  92M  59M R 40.0   3.4   0:12.26 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  92M  59M S 54.0   3.4   0:12.66 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.72 grep zfdang
+31234 u0_a3364     10 -10 2.2G  88M  59M S 27.0   3.2   0:13.20 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  88M  59M S 55.0   3.2   0:13.47 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  89M  59M S 21.0   3.2   0:14.02 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  89M  59M S  3.0   3.3   0:14.23 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  89M  59M S  1.0   3.3   0:14.26 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  89M  59M S  9.0   3.3   0:14.27 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  89M  59M S 65.0   3.3   0:14.36 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  57M R 15.0   3.3   0:15.01 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  58M S  4.0   3.3   0:15.16 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  58M S 15.0   3.3   0:15.20 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  87M  58M S 55.0   3.2   0:15.35 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  89M  59M S  6.0   3.3   0:15.90 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  89M  59M S 10.0   3.3   0:15.96 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  59M S  2.0   3.3   0:16.06 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.73 grep zfdang
+31234 u0_a3364     10 -10 2.2G  90M  59M S 13.0   3.3   0:16.08 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  59M S 71.0   3.3   0:16.21 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  59M R 18.0   3.3   0:16.92 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  60M S 51.0   3.3   0:17.10 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  92M  60M S 31.0   3.4   0:17.61 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.74 grep zfdang[H[JTasks: 556 total,   2 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  92M  60M R 50.0   3.4   0:17.92 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  93M  61M S 43.0   3.4   0:18.42 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  93M  61M S 37.0   3.4   0:18.85 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  95M  62M S 40.0   3.5   0:19.22 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  95M  62M S 40.0   3.5   0:19.62 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  95M  62M S 36.0   3.5   0:20.02 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  96M  62M S 36.0   3.5   0:20.38 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.74 grep zfdang
+31234 u0_a3364     10 -10 2.2G  91M  61M S  3.0   3.3   0:20.74 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  61M S  6.0   3.3   0:20.77 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.75 grep zfdang
+31234 u0_a3364     10 -10 2.2G  91M  61M S 51.0   3.3   0:20.83 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  93M  61M S  3.0   3.4   0:21.34 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  93M  61M S  6.0   3.4   0:21.37 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.75 grep zfdang
+31234 u0_a3364     10 -10 2.2G  93M  61M S 36.0   3.4   0:21.43 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  94M  61M S  8.0   3.5   0:21.79 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  94M  60M R 33.0   3.4   0:21.87 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  60M S  0.0   3.3   0:22.20 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.75 grep zfdang
+31234 u0_a3364     10 -10 2.2G  90M  60M S  3.0   3.3   0:22.20 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  90M  60M S  9.0   3.3   0:22.23 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.75 grep zfdang
+31234 u0_a3364     10 -10 2.2G  90M  60M S 44.0   3.3   0:22.32 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  62M S  4.0   3.3   0:22.76 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  92M  62M S 18.0   3.3   0:22.80 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.75 grep zfdang
+31234 u0_a3364     10 -10 2.2G  91M  62M S  6.0   3.3   0:22.98 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  91M  62M S 44.0   3.3   0:23.04 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  94M  62M S  2.0   3.4   0:23.48 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  94M  62M S  3.0   3.4   0:23.50 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.76 grep zfdang[H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  93M  62M S 12.0   3.4   0:23.53 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  93M  61M S 65.0   3.4   0:23.65 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  94M  63M S 11.0   3.5   0:24.30 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.76 grep zfdang[H[JTasks: 556 total,   1 running, 548 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  94M  62M S  1.0   3.4   0:24.41 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.76 grep zfdang[H[JTasks: 558 total,   2 running, 551 sleeping,   0 stopped,   1 zombie                                                                                                   
+31234 u0_a3364     10 -10 2.2G  94M  62M S  2.0   3.4   0:24.42 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  94M  62M S  3.0   3.4   0:24.44 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  94M  62M S 35.0   3.4   0:24.47 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  95M  63M R 10.0   3.5   0:24.82 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  95M  63M S 24.0   3.5   0:24.92 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.76 grep zfdang
+31234 u0_a3364     10 -10 2.2G  95M  63M S 18.0   3.5   0:25.16 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  95M  63M S 75.0   3.5   0:25.34 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  98M  63M R 44.0   3.6   0:26.09 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.77 grep zfdang
+31234 u0_a3364     10 -10 2.2G 100M  64M S 75.0   3.7   0:26.53 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  97M  64M S 24.0   3.5   0:27.28 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  96M  64M S 56.0   3.5   0:27.52 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  96M  64M S 25.0   3.5   0:28.08 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  97M  64M S 54.0   3.5   0:28.33 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  97M  64M S 39.0   3.6   0:28.87 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.77 grep zfdang
+31234 u0_a3364     10 -10 2.2G  97M  64M S 41.0   3.6   0:29.26 com.zfdang.zsmth_android
+31234 u0_a3364     10 -10 2.2G  97M  64M R 48.0   3.6   0:29.67 com.zfdang.zsmth_android
+22796 shell        20   0 8.4M 1.5M 1.1M S  1.0   0.0   0:00.77 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.78 grep zfdang
+22796 shell        20   0 8.4M 1.5M 1.1M S  0.0   0.0   0:00.78 grep zfdang[H[JTasks: 560 total,   1 running, 552 sleeping,   0 stopped,   1 zombie                                                                                                   
